@@ -18,12 +18,14 @@ def download_site(url):
     session = get_session()
     url_1 = 'http://' + url
     url_2 = 'https://' + url
-    TIMEOUT = 5
+    ret_1 = 99999
+    ret_2 = 99999
+    TIMEOUT = 10
     print(url_1, url_2)
     
     try:
-        with session.get(url_1, timeout = TIMEOUT) as response:
-            # print(f"Read {len(response.content)} from {url_1}")
+        with session.get(url_1, timeout = TIMEOUT, allow_redirects = False) as response:
+            print(f"Read {len(response.content)} from {url_1}")
             ret_1 = response.status_code
             print(ret_1)
             # result_dic[url_1] = ret_1
@@ -31,8 +33,8 @@ def download_site(url):
         print('except1')
         ret_1 = 99999
     try:
-        with session.get(url_2, timeout = TIMEOUT) as response:
-            # print(f"Read {len(response.content)} from {url_2}")
+        with session.get(url_2, timeout = TIMEOUT, allow_redirects = False) as response:
+            print(f"Read {len(response.content)} from {url_2}")
             ret_2 = response.status_code
             print(ret_2)
             # result_dic[url_2] = ret_2
@@ -45,7 +47,7 @@ def download_site(url):
     else:
         ret = min(ret_1, ret_2)
     result_dic[url] = ret
-    print(ret)
+    # print(ret)
 
 def download_all_sites(sites):
     with concurrent.futures.ThreadPoolExecutor(max_workers=200) as executor:
@@ -75,6 +77,11 @@ if __name__ == '__main__':
     print(f"Downloaded {len(sites)} in {duration} seconds")
 
     print(result_dic)
+
+    
+    # url = "http://gitlab.dspace.kt.co.kr" 
+    # response = requests.get(url) 
+    # print("status code :", response.status_code)
 
     with open('target.csv','w', encoding='utf-8', newline='') as o_f:
         w = csv.writer(o_f)
