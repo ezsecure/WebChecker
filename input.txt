@@ -1,14 +1,16 @@
+login.kt.com
+
 login.olleh.com
 
 tb.login.olleh.com
 
 tb.login.kt.com
 
-login.kt.com
-
 ft.my.olleh.com
 
 m.my.kt.com
+
+admin.my.olleh.com
 
 admin.my.olleh.com
 
@@ -26,6 +28,8 @@ api.mstorage.kt.com
 
 storage.mstorage.kt.com
 
+biz.olleh.com
+
 m.kt.com
 
 biz.kt.com
@@ -38,11 +42,15 @@ m.biz.kt.com
 
 dev.kt.com
 
+www.kt.co.kr
+
 www.kt.com
 
 event.olleh.com
 
 dev.olleh.com
+
+m.kt.com
 
 mtb.rdi.kt.com
 
@@ -58,11 +66,29 @@ m.olleh.com
 
 m.biz.olleh.com
 
+www.kt.com
+
 www.koreatelecom.com
 
 baseball.kt.com
 
 kt.com
+
+www.kt.co.kr
+
+olleh.com
+
+inside.g.olleh.com
+
+www.g.olleh.com
+
+global.kt.co.kr
+
+m.koreatelecom.com
+
+global.kt.com
+
+gagateway.kt.com
 
 event.kt.com
 
@@ -79,24 +105,6 @@ inside.kt.com
 m.corp.kt.com
 
 corp.kt.com
-
-olleh.com
-
-inside.g.olleh.com
-
-www.g.olleh.com
-
-global.kt.co.kr
-
-m.koreatelecom.com
-
-global.kt.com
-
-gagateway.kt.com
-
-www.kt.co.kr
-
-biz.olleh.com
 
 m.dev.shop.olleh.com
 
@@ -198,8 +206,6 @@ tb-static.navi.kt.com
 
 tb-session.navi.kt.com
 
-tb-s.navi.kt.com
-
 s.navi.kt.com
 
 auth.navi.kt.com
@@ -207,6 +213,8 @@ auth.navi.kt.com
 session.navi.kt.com
 
 navi.kt.com
+
+tb-s.navi.kt.com
 
 tb.fido.olleh.com
 
@@ -227,10 +235,6 @@ tbcertif.fido.kt.com
 onm.fido.kt.com
 
 tbonm.fido.kt.com
-
-download.brm.kt.com
-
-album.brm.kt.com
 
 preview.brm.kt.com
 
@@ -257,6 +261,10 @@ bizring.kt.com
 ringtoyou.kt.com
 
 namering.mobile.kt.com
+
+download.brm.kt.com
+
+album.brm.kt.com
 
 ktfsoundmb.magicn.com
 
@@ -286,6 +294,10 @@ testclip3api.clipwallet.co.kr
 
 www.clipwallet.co.kr
 
+search.qook.co.kr
+
+search.kt.com
+
 m.search.olleh.com
 
 searchimg.olleh.com
@@ -298,6 +310,8 @@ searchdev.olleh.com
 
 search.kt.co.kr
 
+search.kt.com
+
 search2.magicn.com
 
 searchimg.kt.com
@@ -305,10 +319,6 @@ searchimg.kt.com
 m.search.kt.com
 
 searchdev.kt.com
-
-search.qook.co.kr
-
-search.kt.com
 
 help.kt.com
 
@@ -424,6 +434,8 @@ csmobile.biz.olleh.com
 
 Mybiz.kt.com
 
+secure.internet.kt.com
+
 home.megapass.net
 
 internet.kt.com
@@ -432,19 +444,25 @@ tv.olleh.com
 
 m.tv.olleh.com
 
+m.tv.olleh.com
+
+m.tv.olleh.com
+
+m.tv.olleh.com
+
 tv.kt.com
 
 m.tv.kt.com
-
-cms.roaming.kt.com
-
-roaming.kt.com
 
 ktroaming.com
 
 www.ktroaming.com
 
 mail.ktroaming.com
+
+cms.roaming.kt.com
+
+roaming.kt.com
 
 globalroaming.kt.com
 
@@ -482,6 +500,8 @@ music.kt.com
 
 pack.kt.com
 
+music.kt.com
+
 gigagenie.olleh.com
 
 gigagenie.kt.com
@@ -502,9 +522,9 @@ speed.olleh.com
 
 speed.kt.com
 
-coverage.kt.com
-
 coverage.olleh.com
+
+coverage.kt.com
 
 test.ibot.kt.com
 
@@ -514,17 +534,61 @@ erms.olleh.com
 
 idea.kt.co.kr
 
+ktidea.kt.com
+
 ktidea.olleh.com
+
+idea.kt.com
 
 ktidea.kt.com
 
+ktidea.kt.com
+
+login.kt.com
+
+tb.login.kt.com
+
+m.koreatelecom.com
+
+cfm.kt.com
+
+m.rdi.kt.com
+
+rdi.kt.com
+
+inside.kt.com
+
+m.corp.kt.com
+
+corp.kt.com
+
+event.kt.com
+
+gagateway.kt.com
+
 tb.gagateway.kt.com
 
+www.kt.com
+
+kt.com
+
 manage.kt.com
+
+www.kt.co.kr
 
 wwwdev.kt.com
 
 tb.manage.kt.com
+
+www.kt.co.kr
+
+mtb.rdi.kt.com
+
+mtb.biz.kt.com
+
+mtb.corp.kt.com
+
+tb.rdi.kt.com
 
 tb.biz.kt.com
 
@@ -536,11 +600,49 @@ tb.event.kt.com
 
 tb.dev.kt.com
 
+www.kt.com
+
+dev.kt.com
+
+biz.kt.com
+
+global.kt.co.kr
+
+global.kt.com
+
+m.kt.com
+
+check.kt.com
+
+vatrefund.kt.com
+
+m.check.kt.com
+
+m.search.kt.com
+
+searchdev.kt.com
+
+searchimg.kt.com
+
 searchcms.kt.com
 
-dev.direct.kt.com
+search.kt.com
 
-m.dev.direct.kt.com
+gb.kt.com
+
+image2.shop.kt.com
+
+welcome-shop.kt.com
+
+ktmns.kt.com
+
+m.ktmns.kt.com
+
+test.gifti.kt.com
+
+m.gifti.kt.com
+
+gifti.kt.com
 
 devle.shop.kt.com
 
@@ -550,6 +652,18 @@ dev.image.shop.kt.com
 
 devle.image.shop.kt.com
 
+direct.kt.com
+
+5g.kt.com
+
+m.5g.kt.com
+
+m.direct.kt.com
+
+dev.direct.kt.com
+
+m.dev.direct.kt.com
+
 test.shop.kt.com
 
 m.test.shop.kt.com
@@ -558,17 +672,177 @@ dev.shop.kt.com
 
 m.dev.shop.kt.com
 
+shop.kt.com
+
+m.shop.kt.com
+
+image.shop.kt.com
+
+pre.kt.com
+
+m.pre.kt.com
+
+download.brm.kt.com
+
+album.brm.kt.com
+
+preview.brm.kt.com
+
+bizms.biz.kt.com
+
+cms.brm.kt.com
+
+bellring.mobile.kt.com
+
+m.bellring.mobile.kt.com
+
+ring.mobile.kt.com
+
+bizring.kt.com
+
+ringtoyou.kt.com
+
+namering.mobile.kt.com
+
+navi.kt.com
+
+cams.navi.kt.com
+
+static.navi.kt.com
+
+map.navi.kt.com
+
+tile.navi.kt.com
+
+auth.navi.kt.com
+
+session.navi.kt.com
+
+emgc.navi.kt.com
+
+tb-s.navi.kt.com
+
+tb-session.navi.kt.com
+
+tb-static.navi.kt.com
+
+tb-map.navi.kt.com
+
+tb-tile.navi.kt.com
+
+tb-auth.navi.kt.com
+
+tb-web.navi.kt.com
+
+s.navi.kt.com
+
 tb-cams.navi.kt.com
+
+help.kt.com
+
+m.help.kt.com
+
+certif.fido.kt.com
+
+fido.kt.com
+
+tb.fido.kt.com
+
+mms.mobile.kt.com
+
+m.mms.kt.com
+
+mstorage.kt.com
+
+storage.mstorage.kt.com
+
+api.mstorage.kt.com
 
 test.reward.kt.com
 
+clip.mobile.kt.com
+
+Mybiz.kt.com
+
+wifi.kt.com
+
+benefit.kt.com
+
+roaming.kt.com
+
+globalroaming.kt.com
+
+m.globalroaming.kt.com
+
+cms.globalroaming.kt.com
+
+cms.roaming.kt.com
+
+m.ktroaming.kt.com
+
+tv.kt.com
+
+m.tv.kt.com
+
+membership.kt.com
+
+m.membership.kt.com
+
+ft.membership.kt.com
+
+gifti.membership.kt.com
+
+tgifti.membership.kt.com
+
+zone.membership.kt.com
+
+zone1.membership.kt.com
+
+culture.membership.kt.com
+
+dev.fone.kt.com
+
 erms.kt.com
+
+mil.kt.com
 
 cms.product.kt.com
 
+service.mhubs.kt.com
+
+simple.kt.com
+
+m.simple.kt.com
+
+product.kt.com
+
+m.product.kt.com
+
+coverage.kt.com
+
+pack.kt.com
+
+music.kt.com
+
+m.gigagenie.kt.com
+
+gigagenie.kt.com
+
+speed.kt.com
+
 test.ibotcms.kt.co.kr
 
+test.ibot.kt.com
+
+ktidea.kt.com
+
 idea.kt.com
+
+idea.kt.co.kr
+
+ktidea.kt.com
+
+internet.kt.com
 
 otp.mein.kt.co.kr
 
@@ -618,39 +892,23 @@ kns2.kornet.net
 
 dms.kornet.net
 
-ns1.g.api.olleh.com
+int.g.api.kt.com
 
-ns2.g.api.olleh.com
+lbs.api.kt.com
 
-appsso.tbapi.kt.com
+int.api.kt.com
 
-ktbcp.tbapi.kt.com
+lbs.g.api.kt.com
 
-idcb.tbapi.kt.com
+common.tbapi.kt.com
 
-idcb.g.api.kt.com
+id.tbapi.kt.com
 
-mmsmo.g.api.kt.com
+cus.tbapi.kt.com
 
-ktbcp.g.api.kt.com
+dcb.tbapi.kt.com
 
-ktbcp-in.g.api.kt.com
-
-id-in.api.kt.com
-
-cus-in.g.api.kt.com
-
-id-in.g.api.kt.com
-
-int-in.api.kt.com
-
-int-in.g.api.kt.com
-
-cus-in.api.kt.com
-
-msg-in.tbapi.kt.com
-
-kos.tbapi.kt.com
+api.econovation.co.kr
 
 cus.g.api.kt.com
 
@@ -658,7 +916,11 @@ id.api.kt.com
 
 id.g.api.kt.com
 
+cus.g.api.kt.com
+
 common.api.kt.com
+
+common.g.api.kt.com
 
 common.g.api.kt.com
 
@@ -668,7 +930,11 @@ msg-in.g.api.kt.com
 
 lbs-in.g.api.kt.com
 
+lbs-in.g.api.kt.com
+
 lbs-in.api.kt.com
+
+msg-in.g.api.kt.com
 
 int-in.tbapi.kt.com
 
@@ -684,37 +950,77 @@ int.g.api.kt.com
 
 msg.g.api.kt.com
 
+msg.g.api.kt.com
+
 lbs.g.api.kt.com
 
 msg.api.kt.com
 
 anycus.tbapi.kt.com
 
-tb.openapi.kt.com
-
-id-in.tbapi.kt.com
-
-cus.api.kt.com
-
-lbs.api.kt.com
-
-int.api.kt.com
-
-common.tbapi.kt.com
-
-id.tbapi.kt.com
-
-cus.tbapi.kt.com
-
-dcb.tbapi.kt.com
-
-api.econovation.co.kr
-
 appsso.olleh.com
 
 lbs-in.tbapi.kt.com
 
 anyid.tbapi.kt.com
+
+tb.openapi.kt.com
+
+msg-in.tbapi.kt.com
+
+id.g.api.kt.com
+
+id-in.tbapi.kt.com
+
+cus.api.kt.com
+
+id-in.api.kt.com
+
+cus-in.g.api.kt.com
+
+id-in.g.api.kt.com
+
+int-in.api.kt.com
+
+int-in.g.api.kt.com
+
+int-in.g.api.kt.com
+
+cus-in.g.api.kt.com
+
+cus-in.api.kt.com
+
+id-in.g.api.kt.com
+
+kos.tbapi.kt.com
+
+ns1.g.api.olleh.com
+
+ns2.g.api.olleh.com
+
+appsso.tbapi.kt.com
+
+ktbcp.tbapi.kt.com
+
+idcb.tbapi.kt.com
+
+idcb.g.api.kt.com
+
+idcb.g.api.kt.com
+
+mmsmo.g.api.kt.com
+
+mmsmo.g.api.kt.com
+
+ktbcp.g.api.kt.com
+
+ktbcp-in.g.api.kt.com
+
+ktbcp-in.g.api.kt.com
+
+ktbcp.g.api.kt.com
+
+netflix.g.api.kt.com
 
 netflix.g.api.kt.com
 
@@ -739,6 +1045,8 @@ contents.megatvdnp.co.kr
 cms.megatvdnp.co.kr
 
 cmsdev.megatvdnp.co.kr
+
+img.now.olleh.com
 
 *.ssdev.ucloudbiz.olleh.com
 
@@ -932,6 +1240,8 @@ grsbc22v-3.kt070.co.kr
 
 omws.megatvdnp.co.kr
 
+m.tvmobile.olleh.com
+
 m.tvmobile.kt.com
 
 3cta.kt070.co.kr
@@ -954,11 +1264,31 @@ sbc9s.kt070.co.kr
 
 4cta.kt070.co.kr
 
+4cta.kt070.co.kr
+
 4cta-rev.kt070.co.kr
+
+3cta.kt070.co.kr
+
+3cta-rev.kt070.co.kr
 
 3cta-rev.kt070.co.kr
 
 3ctp.kt070.co.kr
+
+ctw.kt070.co.kr
+
+ctw.kt070.co.kr
+
+ctw.kt070.co.kr
+
+ctw.kt070.co.kr
+
+ctw.kt070.co.kr
+
+ctw.kt070.co.kr
+
+ctw.kt070.co.kr
 
 ctw.kt070.co.kr
 
@@ -990,23 +1320,35 @@ ctx4.kt070.co.kr
 
 2cta.kt070.co.kr
 
+2cta.kt070.co.kr
+
 2cta-rev.kt070.co.kr
 
 2ctp.kt070.co.kr
 
 2ctx.kt070.co.kr
 
+4cta-rev.kt070.co.kr
+
 4ctp.kt070.co.kr
 
 5cta.kt070.co.kr
 
+5cta.kt070.co.kr
+
 5cta-rev.kt070.co.kr
+
+5cta-rev.kt070.co.kr
+
+6cta.kt070.co.kr
 
 6cta.kt070.co.kr
 
 6cta-rev.kt070.co.kr
 
 6ctp.kt070.co.kr
+
+7cta.kt070.co.kr
 
 7cta.kt070.co.kr
 
@@ -1023,6 +1365,10 @@ uc1.kt070.co.kr
 9ctp.kt070.co.kr
 
 ccrs.kt070.co.kr
+
+cta.kt070.co.kr
+
+cta-rev.kt070.co.kr
 
 cta-rev.kt070.co.kr
 
@@ -1116,6 +1462,8 @@ grsbc21v-3.kt070.co.kr
 
 11cta.kt070.co.kr
 
+11cta.kt070.co.kr
+
 11ctp.kt070.co.kr
 
 cta21.kt070.co.kr
@@ -1145,6 +1493,8 @@ hh22ctp.kt070.co.kr
 gr22ctp.kt070.co.kr
 
 hh22cta.kt070.co.kr
+
+ctn.kt070.co.kr
 
 inside.xroshot.com
 
@@ -1180,9 +1530,9 @@ ns2.g.xroshot.com
 
 ns1.g.xroshot.com
 
-bos.xroshot.com
-
 msp.xroshot.com
+
+bos.xroshot.com
 
 ktpay.kt.com
 
@@ -1198,13 +1548,13 @@ ips.olleh.com
 
 ipsonm.olleh.com
 
+tbidcb.kt.com
+
 idcb.kt.com
 
 ips.kt.com
 
 tb.ips.kt.com
-
-tbidcb.kt.com
 
 tbips.olleh.com
 
@@ -2298,11 +2648,19 @@ v6volte247.imskt.com
 
 600volte.imskt.com
 
+600volte.imskt.com
+
+ccptest.imskt.com
+
 ccptest.imskt.com
 
 testlte001.imskt.com
 
 testlte011.imskt.com
+
+testlte011.imskt.com
+
+testlte012.imskt.com
 
 testlte012.imskt.com
 
@@ -2457,6 +2815,8 @@ ltesbc098.kornet.net
 ltesbc099.kornet.net
 
 ltesbc100.kornet.net
+
+ltesbctest01.kornet.net
 
 ltesbctest01.kornet.net
 
@@ -2624,9 +2984,31 @@ volte960.imskt.com
 
 v6volte010-test.imskt.com
 
+v6volte011-test.imskt.com
+
 v6volte012-test.imskt.com
 
+v6volte200.imskt.com
+
+v6volte201.imskt.com
+
+v6volte202.imskt.com
+
+v6volte203.imskt.com
+
+v6volte204.imskt.com
+
+v6volte205.imskt.com
+
 v6volte206.imskt.com
+
+v6volte207.imskt.com
+
+v6volte208.imskt.com
+
+v6volte209.imskt.com
+
+v6volte210.imskt.com
 
 v6volte211.imskt.com
 
@@ -2732,6 +3114,10 @@ volte305.imskt.com
 
 testlte022.imskt.com
 
+testlte022.imskt.com
+
+testlte212.imskt.com
+
 testlte212.imskt.com
 
 usbc003.imskt.com
@@ -2760,7 +3146,11 @@ v6volte000-test.imskt.com
 
 v6volte001.imskt.com
 
+v6volte001-test.imskt.com
+
 v6volte002.imskt.com
+
+v6volte002-test.imskt.com
 
 v6volte003.imskt.com
 
@@ -2775,6 +3165,10 @@ v6volte007.imskt.com
 v6volte008.imskt.com
 
 v6volte009.imskt.com
+
+v6volte010-test.imskt.com
+
+v6volte012-test.imskt.com
 
 v6volte100.imskt.com
 
@@ -3148,7 +3542,15 @@ volte703.imskt.com
 
 volte737.imskt.com
 
+volte921.imskt.com
+
+v6volte000-test.imskt.com
+
 v6volte225.imskt.com
+
+testlte021.imskt.com
+
+v6volte206.imskt.com
 
 volte020.imskt.com
 
@@ -3169,6 +3571,22 @@ volte294.imskt.com
 volte332.imskt.com
 
 volte370.imskt.com
+
+volte711.imskt.com
+
+volte712.imskt.com
+
+volte713.imskt.com
+
+volte714.imskt.com
+
+volte715.imskt.com
+
+volte709.imskt.com
+
+volte710.imskt.com
+
+volte.imskt.com
 
 volte.imskt.com
 
@@ -3198,11 +3616,17 @@ umcsbc001.kornet.net
 
 mgwsbc001.kornet.net
 
+mgwsbc001.kornet.net
+
 sbc7sgr.kt070.co.kr
 
 sbc8s.kt070.co.kr
 
 umcsbctest003.kornet.net
+
+umcsbc001.kornet.net
+
+umcsbc002.kornet.net
 
 umcsbc002.kornet.net
 
@@ -3236,7 +3660,7 @@ sbc7s.kt070.co.kr
 
 mgwsbc002.kornet.net
 
-homehubspeed.olleh.com
+mgwsbc002.kornet.net
 
 jeonnam.internet.olleh.com
 
@@ -3270,13 +3694,15 @@ chungbuk.internet.qook.co.kr
 
 chungbuk.internet.olleh.com
 
+homehubspeed.olleh.com
+
+www.ktsmap.com
+
 core.ktsmap.com
 
 coretb.ktsmap.com
 
 tb.ktsmap.com
-
-www.ktsmap.com
 
 web.scms.kt.com
 
@@ -3312,6 +3738,12 @@ m.myapp.kt.com
 
 myktgw.kt.co.kr
 
+cemsrw.ktipmedia.co.kr
+
+biz.ktcems.com
+
+cemstr.ktipmedia.co.kr
+
 biztacs.ktcems.com
 
 dms12.homeap.co.kr
@@ -3322,17 +3754,9 @@ gerw.ktcems.com
 
 getrap.ktcems.com
 
-cemsrw.ktipmedia.co.kr
-
-biz.ktcems.com
-
-cemstr.ktipmedia.co.kr
-
 pps.kt070.co.kr
 
 ps.kt070.co.kr
-
-maapfe-stg.hermes.kt.com
 
 bphub.hermes.kt.com
 
@@ -3341,6 +3765,8 @@ agency.hermes.kt.com
 maapfe.hermes.kt.com
 
 bphub-stg.hermes.kt.com
+
+maapfe-stg.hermes.kt.com
 
 agency-stg.hermes.kt.com
 
@@ -3376,15 +3802,15 @@ rcs-stg.hermes.kt.com
 
 rcs.hermes.kt.com
 
-gwec-hw7.gigaeyes.co.kr
-
-vod-hw7.gigaeyes.co.kr
-
 dnd-hw7.gigaeyes.co.kr
 
 hhlv07-a052.vsaas.co.kr
 
 ses-hw7.gigaeyes.co.kr
+
+gwec-hw7.gigaeyes.co.kr
+
+vod-hw7.gigaeyes.co.kr
 
 vod-hw2.gigaeyes.co.kr
 
@@ -3488,58 +3914,6 @@ hhlv01-a017.vsaas.co.kr
 
 int-gw.gigaeyes.co.kr
 
-hhlv03-a002.vsaas.co.kr
-
-hhlv03-a003.vsaas.co.kr
-
-hhlv03-a004.vsaas.co.kr
-
-hhlv03-a005.vsaas.co.kr
-
-hhlv03-a021.vsaas.co.kr
-
-hhlv03-a022.vsaas.co.kr
-
-hhlv03-a023.vsaas.co.kr
-
-hhlv03-a001.vsaas.co.kr
-
-hhlv03-a011.vsaas.co.kr
-
-hhlv03-a012.vsaas.co.kr
-
-hhlv03-a013.vsaas.co.kr
-
-hhlv03-a014.vsaas.co.kr
-
-hhlv03-a015.vsaas.co.kr
-
-hhlv03-a016.vsaas.co.kr
-
-hhlv03-a017.vsaas.co.kr
-
-hhlv03-a018.vsaas.co.kr
-
-hhlv03-a019.vsaas.co.kr
-
-hhlv03-a020.vsaas.co.kr
-
-hhlv03-a006.vsaas.co.kr
-
-hhlv03-a007.vsaas.co.kr
-
-hhlv03-a008.vsaas.co.kr
-
-hhlv03-a009.vsaas.co.kr
-
-hhlv03-a010.vsaas.co.kr
-
-hhlv03-a024.vsaas.co.kr
-
-hhlv03-a025.vsaas.co.kr
-
-hhlv03-a026.vsaas.co.kr
-
 gwec-gr2.gigaeyes.co.kr
 
 vod-gr2.gigaeyes.co.kr
@@ -3571,108 +3945,6 @@ hhlv01-a037.vsaas.co.kr
 hhlv01-a039.vsaas.co.kr
 
 hhlv01-a040.vsaas.co.kr
-
-hhlv07-a051.vsaas.co.kr
-
-hhlv07-a050.vsaas.co.kr
-
-hhlv07-a049.vsaas.co.kr
-
-hhlv07-a048.vsaas.co.kr
-
-hhlv07-a047.vsaas.co.kr
-
-hhlv07-a046.vsaas.co.kr
-
-hhlv07-a045.vsaas.co.kr
-
-hhlv07-a044.vsaas.co.kr
-
-hhlv07-a043.vsaas.co.kr
-
-hhlv07-a042.vsaas.co.kr
-
-hhlv07-a041.vsaas.co.kr
-
-hhlv07-a040.vsaas.co.kr
-
-hhlv07-a039.vsaas.co.kr
-
-hhlv07-a038.vsaas.co.kr
-
-hhlv07-a037.vsaas.co.kr
-
-hhlv07-a036.vsaas.co.kr
-
-hhlv07-a035.vsaas.co.kr
-
-hhlv07-a034.vsaas.co.kr
-
-hhlv07-a033.vsaas.co.kr
-
-hhlv07-a032.vsaas.co.kr
-
-hhlv07-a031.vsaas.co.kr
-
-hhlv07-a030.vsaas.co.kr
-
-hhlv07-a029.vsaas.co.kr
-
-hhlv07-a028.vsaas.co.kr
-
-hhlv07-a027.vsaas.co.kr
-
-hhlv07-a026.vsaas.co.kr
-
-hhlv07-a025.vsaas.co.kr
-
-hhlv07-a024.vsaas.co.kr
-
-hhlv07-a023.vsaas.co.kr
-
-hhlv07-a022.vsaas.co.kr
-
-hhlv07-a021.vsaas.co.kr
-
-hhlv07-a020.vsaas.co.kr
-
-hhlv07-a019.vsaas.co.kr
-
-hhlv07-a018.vsaas.co.kr
-
-hhlv07-a017.vsaas.co.kr
-
-hhlv07-a016.vsaas.co.kr
-
-hhlv07-a015.vsaas.co.kr
-
-hhlv07-a014.vsaas.co.kr
-
-hhlv07-a013.vsaas.co.kr
-
-hhlv07-a012.vsaas.co.kr
-
-hhlv07-a011.vsaas.co.kr
-
-hhlv07-a010.vsaas.co.kr
-
-hhlv07-a009.vsaas.co.kr
-
-hhlv07-a008.vsaas.co.kr
-
-hhlv07-a007.vsaas.co.kr
-
-hhlv07-a006.vsaas.co.kr
-
-hhlv07-a005.vsaas.co.kr
-
-hhlv07-a004.vsaas.co.kr
-
-hhlv07-a003.vsaas.co.kr
-
-hhlv07-a002.vsaas.co.kr
-
-hhlv07-a001.vsaas.co.kr
 
 vod-hw.gigaeyes.co.kr
 
@@ -4486,7 +4758,163 @@ hhlv01-a023.vsaas.co.kr
 
 hhlv01-a024.vsaas.co.kr
 
+hhlv07-a051.vsaas.co.kr
+
+hhlv07-a050.vsaas.co.kr
+
+hhlv07-a049.vsaas.co.kr
+
+hhlv07-a048.vsaas.co.kr
+
+hhlv07-a047.vsaas.co.kr
+
+hhlv07-a046.vsaas.co.kr
+
+hhlv07-a045.vsaas.co.kr
+
+hhlv07-a044.vsaas.co.kr
+
+hhlv07-a043.vsaas.co.kr
+
+hhlv07-a042.vsaas.co.kr
+
+hhlv07-a041.vsaas.co.kr
+
+hhlv07-a040.vsaas.co.kr
+
+hhlv07-a039.vsaas.co.kr
+
+hhlv07-a038.vsaas.co.kr
+
+hhlv07-a037.vsaas.co.kr
+
+hhlv07-a036.vsaas.co.kr
+
+hhlv07-a035.vsaas.co.kr
+
+hhlv07-a034.vsaas.co.kr
+
+hhlv07-a033.vsaas.co.kr
+
+hhlv07-a032.vsaas.co.kr
+
+hhlv07-a031.vsaas.co.kr
+
+hhlv07-a030.vsaas.co.kr
+
+hhlv07-a029.vsaas.co.kr
+
+hhlv07-a028.vsaas.co.kr
+
+hhlv07-a027.vsaas.co.kr
+
+hhlv07-a026.vsaas.co.kr
+
+hhlv07-a025.vsaas.co.kr
+
+hhlv07-a024.vsaas.co.kr
+
+hhlv07-a023.vsaas.co.kr
+
+hhlv07-a022.vsaas.co.kr
+
+hhlv07-a021.vsaas.co.kr
+
+hhlv07-a020.vsaas.co.kr
+
+hhlv07-a019.vsaas.co.kr
+
+hhlv07-a018.vsaas.co.kr
+
+hhlv07-a017.vsaas.co.kr
+
+hhlv07-a016.vsaas.co.kr
+
+hhlv07-a015.vsaas.co.kr
+
+hhlv07-a014.vsaas.co.kr
+
+hhlv07-a013.vsaas.co.kr
+
+hhlv07-a012.vsaas.co.kr
+
+hhlv07-a011.vsaas.co.kr
+
+hhlv07-a010.vsaas.co.kr
+
+hhlv07-a009.vsaas.co.kr
+
+hhlv07-a008.vsaas.co.kr
+
+hhlv07-a007.vsaas.co.kr
+
+hhlv07-a006.vsaas.co.kr
+
+hhlv07-a005.vsaas.co.kr
+
+hhlv07-a004.vsaas.co.kr
+
+hhlv07-a003.vsaas.co.kr
+
+hhlv07-a002.vsaas.co.kr
+
+hhlv07-a001.vsaas.co.kr
+
+hhlv03-a002.vsaas.co.kr
+
+hhlv03-a003.vsaas.co.kr
+
+hhlv03-a004.vsaas.co.kr
+
+hhlv03-a005.vsaas.co.kr
+
+hhlv03-a021.vsaas.co.kr
+
+hhlv03-a022.vsaas.co.kr
+
+hhlv03-a023.vsaas.co.kr
+
+hhlv03-a001.vsaas.co.kr
+
+hhlv03-a011.vsaas.co.kr
+
+hhlv03-a012.vsaas.co.kr
+
+hhlv03-a013.vsaas.co.kr
+
+hhlv03-a014.vsaas.co.kr
+
+hhlv03-a015.vsaas.co.kr
+
+hhlv03-a016.vsaas.co.kr
+
+hhlv03-a017.vsaas.co.kr
+
+hhlv03-a018.vsaas.co.kr
+
+hhlv03-a019.vsaas.co.kr
+
+hhlv03-a020.vsaas.co.kr
+
+hhlv03-a006.vsaas.co.kr
+
+hhlv03-a007.vsaas.co.kr
+
+hhlv03-a008.vsaas.co.kr
+
+hhlv03-a009.vsaas.co.kr
+
+hhlv03-a010.vsaas.co.kr
+
+hhlv03-a024.vsaas.co.kr
+
+hhlv03-a025.vsaas.co.kr
+
+hhlv03-a026.vsaas.co.kr
+
 bizms.biz.olleh.com
+
+onion.megatvdnp.co.kr
 
 cashapi.megatvdnp.co.kr
 
@@ -4509,6 +4937,32 @@ ktlbswps03.kt.com
 ktlbswps04.kt.com
 
 ktlbswps05.kt.com
+
+kds.gigaeyes.co.kr
+
+www.ktvsaas.co.kr
+
+www2.ktvsaas.co.kr
+
+cms.ktvsaas.co.kr
+
+dev2-gwec.ktvsaas.co.kr
+
+dev1-stm01.ktvsaas.co.kr
+
+dev2-stm01.ktvsaas.co.kr
+
+dev2-stm02.ktvsaas.co.kr
+
+dev2-vod01.ktvsaas.co.kr
+
+dev2-dnd01.ktvsaas.co.kr
+
+www.gigaeyes.co.kr
+
+dms.gigaeyes.co.kr
+
+open.gigaeyes.co.kr
 
 vod-hw3.gigaeyes.co.kr
 
@@ -4554,32 +5008,6 @@ int01-local.ktvsaas.co.kr
 
 ntp.gigaeyes.co.kr
 
-kds.gigaeyes.co.kr
-
-www.ktvsaas.co.kr
-
-www2.ktvsaas.co.kr
-
-cms.ktvsaas.co.kr
-
-dev2-gwec.ktvsaas.co.kr
-
-dev1-stm01.ktvsaas.co.kr
-
-dev2-stm01.ktvsaas.co.kr
-
-dev2-stm02.ktvsaas.co.kr
-
-dev2-vod01.ktvsaas.co.kr
-
-dev2-dnd01.ktvsaas.co.kr
-
-www.gigaeyes.co.kr
-
-dms.gigaeyes.co.kr
-
-open.gigaeyes.co.kr
-
 hhlv01-a041.vsaas.co.kr
 
 hhlv01-a042.vsaas.co.kr
@@ -4602,14 +5030,6 @@ dnd-hw.gigaeyes.co.kr
 
 @.gigaeyes.co.kr
 
-vtile.gis.kt.com
-
-api.ollehmap.com
-
-rg.gis.kt.com
-
-api.ktgis.com
-
 gis.kt.com
 
 tile.gis.kt.com
@@ -4620,7 +5040,15 @@ tile2.gis.kt.com
 
 tile3.gis.kt.com
 
+api.ktgis.com
+
 dev.gis.kt.com
+
+vtile.gis.kt.com
+
+api.ollehmap.com
+
+rg.gis.kt.com
 
 mips.ucloudbiz.kt.com
 
@@ -4638,13 +5066,13 @@ ssw.kt070.co.kr
 
 ollehmvno.kt.com
 
+hdms.ktcems.com
+
 dms.homeap.co.kr
 
 prvrw.ktipmedia.co.kr
 
 prvtr.ktipmedia.co.kr
-
-hdms.ktcems.com
 
 gih.ktcems.com
 
@@ -4668,11 +5096,39 @@ tb-midas.clipwallet.co.kr
 
 ombs.megatvdnp.co.kr
 
+iot.kt-bill.kt.com
+
+iot.kt-bill.kt.com
+
 pdfbill.kt.com
 
 kt-bill.kt.com
 
+kt-bill.kt.com
+
+kt-bill.kt.com
+
+kt-bill.kt.com
+
+kt-bill.kt.com
+
+kt-bill.kt.com
+
+kt-bill.kt.com
+
+kt-bill.kt.com
+
+kt-bill.kt.com
+
+kt-bill.kt.com
+
 mvno.kt-bill.kt.com
+
+mvno.kt-bill.kt.com
+
+mvno.kt-bill.kt.com
+
+iot.kt-bill.kt.com
 
 iot.kt-bill.kt.com
 
@@ -4699,16 +5155,6 @@ first2.wifi.olleh.com
 firstwifi.nespot.com
 
 midbas.nespot.com
-
-api.hiot.olleh.com
-
-www.dev-ohcam.olleh.com
-
-www.ohcam.olleh.com
-
-cms.hiot.olleh.com
-
-wifigw.hiot.kt.com
 
 ktinfra.hiot.olleh.com
 
@@ -4745,6 +5191,18 @@ dev-ktinfra.hiot.kt.com
 dev-ec.hiot.kt.com
 
 dev-ap.hiot.kt.com
+
+api.hiot.olleh.com
+
+www.dev-ohcam.olleh.com
+
+www.ohcam.olleh.com
+
+cms.hiot.olleh.com
+
+wifigw.hiot.kt.com
+
+ucr.ucloudbiz.kt.com
 
 ucr.ucloudbiz.kt.com
 
@@ -4816,23 +5274,11 @@ gsvr-push.ktipmedia.co.kr
 
 gsvr.ktipmedia.co.kr
 
-mblapi.bom.kt.com
+bmtchat.bom.kt.com
+
+bmtmblapi.bom.kt.com
 
 chat.bom.kt.com
-
-cdn1.ktipmedia.co.kr
-
-cdn2.ktipmedia.co.kr
-
-bmtcms.bom.kt.com
-
-bmtagent.bom.kt.com
-
-bmtopenapi.bom.kt.com
-
-bmtmapi.bom.kt.com
-
-bmt.bom.kt.com
 
 agent.bom.kt.com
 
@@ -4848,13 +5294,29 @@ brokeringimg.ktipmedia.co.kr
 
 mimg.bom.kt.com
 
-bmtchat.bom.kt.com
+mblapi.bom.kt.com
 
-bmtmblapi.bom.kt.com
+cdn1.ktipmedia.co.kr
+
+cdn2.ktipmedia.co.kr
+
+bmtcms.bom.kt.com
+
+bmtagent.bom.kt.com
+
+bmtopenapi.bom.kt.com
+
+bmtmapi.bom.kt.com
+
+bmt.bom.kt.com
 
 erp1.kt.co.kr
 
-vmwvcav.ucloudbiz.kt.com
+vmwportal.ucloudbiz.kt.com
+
+vmwconsole.ucloudbiz.kt.com
+
+vmwtenantapp.ucloudbiz.kt.com
 
 vcdportal.ucloudbiz.kt.com
 
@@ -4864,21 +5326,7 @@ vcdtenantapp.ucloudbiz.kt.com
 
 vcdvcav.ucloudbiz.kt.com
 
-vmwportal.ucloudbiz.kt.com
-
-vmwconsole.ucloudbiz.kt.com
-
-vmwtenantapp.ucloudbiz.kt.com
-
-gov.ucloudbiz.kt.com
-
-gov.ucloudbiz.olleh.com
-
-govadm.ucloudbiz.olleh.com
-
-gcloud.kt.com
-
-ktgcloud.kt.com
+vmwvcav.ucloudbiz.kt.com
 
 *.dl.cloud.kt.com
 
@@ -4886,21 +5334,29 @@ ktgcloud.kt.com
 
 datalake.cloud.kt.com
 
+gov.ucloudbiz.olleh.com
+
+govadm.ucloudbiz.olleh.com
+
+gov.ucloudbiz.kt.com
+
+gcloud.kt.com
+
+ktgcloud.kt.com
+
 hybrid.cloud.kt.com
 
 mail.ktcloud.com
 
 cloud.kt.com
 
+ktcloud.kt.com
+
 ktjc.ucloudbiz.olleh.com
 
 ktjm.ucloudbiz.olleh.com
 
 ucloudbiz.kt.com
-
-ktcloud.kt.com
-
-ktjc.ucloudbiz.kt.com
 
 cssoap.ucloud.com
 
@@ -4912,7 +5368,15 @@ ucloudbiz.olleh.com
 
 soap.ucloudbiz.olleh.com
 
-smfiltermanager.kt.com
+ktjc.ucloudbiz.kt.com
+
+filter1.kt.com
+
+filter2.kt.com
+
+filter3.kt.com
+
+filter4.kt.com
 
 mail.kt.com
 
@@ -4932,27 +5396,29 @@ smfilter2.kt.co.kr
 
 mail.kt.co.kr
 
+smfilter1.kt.com
+
+smfilter2.kt.com
+
 smtp.kt.com
 
 filter3.kt.co.kr
 
 filter4.kt.co.kr
 
-filter1.kt.com
-
-filter2.kt.com
-
-filter3.kt.com
-
-filter4.kt.com
+smfiltermanager.kt.com
 
 smtp.kt.co.kr
 
+mail.kt.co.kr
+
+mail.kt.com
+
 ns2.show.co.kr
 
-groupmail.kt.com
-
 groupma.kt.com
+
+groupmail.kt.com
 
 gba.play.ktgamebox.com
 
@@ -4960,7 +5426,9 @@ ktgamebox.com
 
 www.ktgamebox.com
 
-mail.ktgamebox.com
+mx2.ktgamebox.com
+
+mx1.ktgamebox.com
 
 web.sg.kt.com
 
@@ -4968,19 +5436,17 @@ fgelv004.esports.kt.com
 
 fgelw.esports.kt.com
 
-mx2.ktgamebox.com
-
-mx1.ktgamebox.com
+mail.ktgamebox.com
 
 gbc.play.ktgamebox.com
 
 api.drm.megatvdnp.co.kr
 
-ibot.kt.com
-
 drmipsusb.megatvdnp.co.kr
 
 ermsweb.kt.com
+
+ibot.kt.com
 
 bizmenu.ktipmedia.co.kr
 
@@ -5034,6 +5500,8 @@ ctx6.kt070.co.kr
 
 3ctx.kt070.co.kr
 
+3ctx.kt070.co.kr
+
 dltest.ktsode.co.kr
 
 policy.ktsode.co.kr
@@ -5064,15 +5532,9 @@ web.ktsode.net
 
 cemsug.ktipmedia.co.kr
 
+cemsug.ktipmedia.co.kr
+
 agent.kt100.com
-
-roadtiledmz.ktgis.com
-
-roadtiledmz1.ktgis.com
-
-map4.ktgis.com
-
-map.ktgis.com
 
 roadtiledmz2.ktgis.com
 
@@ -5091,6 +5553,14 @@ map2.ktgis.com
 map3.ktgis.com
 
 map.gis.kt.com
+
+roadtiledmz.ktgis.com
+
+roadtiledmz1.ktgis.com
+
+map4.ktgis.com
+
+map.ktgis.com
 
 dev.csappw.kt.com
 
@@ -5154,7 +5624,7 @@ www.thunderpost.org
 
 모바일통지.org
 
-devspeech.ktipmedia.co.kr
+kwsp.ktipmedia.co.kr
 
 kws.ktipmedia.co.kr
 
@@ -5162,7 +5632,7 @@ gspeech.ktipmedia.co.kr
 
 rspeech.ktipmedia.co.kr
 
-kwsp.ktipmedia.co.kr
+devspeech.ktipmedia.co.kr
 
 speechrecord.ktipmedia.co.kr
 
@@ -5173,6 +5643,8 @@ tb.osca.kt.com
 gmmsonm.show.co.kr
 
 massmail.group.kt.com
+
+email.kt.com
 
 ma1.kt.com
 
@@ -5190,7 +5662,7 @@ ma7.kt.com
 
 marc.kt.com
 
-email.kt.com
+massmail.kt.com
 
 massmail.kt.com
 
@@ -5250,15 +5722,13 @@ ktfdev.kt.com
 
 ktars.co.kr
 
-api.ovod10.seezntv.com
-
-api.ovod9.seezntv.com
-
-api.ovod8.seezntv.com
-
-api.ovod7.seezntv.com
-
 sms.ktann.com
+
+api.onch2.seezntv.com
+
+api.onch1.seezntv.com
+
+api.ovod10.seezntv.com
 
 api.onch5.seezntv.com
 
@@ -5266,9 +5736,11 @@ api.onch4.seezntv.com
 
 api.onch3.seezntv.com
 
-api.onch2.seezntv.com
+api.ovod9.seezntv.com
 
-api.onch1.seezntv.com
+api.ovod8.seezntv.com
+
+api.ovod7.seezntv.com
 
 api.ovod6.seezntv.com
 
@@ -5286,6 +5758,10 @@ tbdrv.pass.kt.com
 
 drv.pass.kt.com
 
+test.gdialoglang.ktipmedia.co.kr
+
+gdialoglang.ktipmedia.co.kr
+
 gdialog.ktipmedia.co.kr
 
 udialog.ktipmedia.co.kr
@@ -5293,10 +5769,6 @@ udialog.ktipmedia.co.kr
 onenavicms.ktipmedia.co.kr
 
 onenavi.ktipmedia.co.kr
-
-test.gdialoglang.ktipmedia.co.kr
-
-gdialoglang.ktipmedia.co.kr
 
 myvoicestory.ktipmedia.co.kr
 
@@ -5308,23 +5780,27 @@ pttsnews.ktipmedia.co.kr
 
 gbbs.megatvdnp.co.kr
 
+mam.kt.com
+
 ktsecure-hub.kt.com
 
 mam-test.kt.com
 
 securehub.kt.com
 
+ktmdm.kt.com
+
 online.kt.com
 
 sales.online.kt.com
 
-test.ktplaygame.kt.com
-
-play.game.kt.com
-
 service.giftbox.kt.com
 
 test.giftbox.kt.com
+
+test.ktplaygame.kt.com
+
+play.game.kt.com
 
 tomasonm2.kt.com
 
@@ -5348,8 +5824,6 @@ kidsafe.olleh.com
 
 m.kidsafe.olleh.com
 
-api.mobility.kt.com
-
 api.fms.kt.com
 
 tfms.biz.olleh.com
@@ -5357,6 +5831,8 @@ tfms.biz.olleh.com
 vehicle.biz.olleh.com
 
 test.gvptb.kt.com
+
+api.mobility.kt.com
 
 freezone-app.show.co.kr
 
@@ -5388,17 +5864,21 @@ fidosdk.ibaf.kt.com
 
 tbfidosdk.ibaf.kt.com
 
+eform.kt.com
+
+agency.kt.com
+
 gnote.kt.com
 
 knote.kt.com
 
 safeimage.kt.com
 
-call.callmanager.kt.com
-
 ktpc.bizphone.co.kr
 
 open.bizphone.co.kr
+
+call.callmanager.kt.com
 
 api.gbcp.kt.com
 
@@ -5411,20 +5891,6 @@ gbws.megatvdnp.co.kr
 showmovie.mobile.kt.com
 
 mposs.kt.com
-
-stg-omgw.ollehmarket.com
-
-ktappkunproxy.show.co.kr
-
-nespotappkunproxy.show.co.kr
-
-pad.hybrid.olleh.com
-
-market.pas.olleh.com
-
-menuwifi.pas.olleh.com
-
-hybrid.olleh.com
 
 sellertb2.ollehmarket.com
 
@@ -5451,6 +5917,20 @@ omgw.ollehmarket.com
 tbauthwifi.pas.olleh.com
 
 olleh.kr
+
+stg-omgw.ollehmarket.com
+
+ktappkunproxy.show.co.kr
+
+nespotappkunproxy.show.co.kr
+
+pad.hybrid.olleh.com
+
+market.pas.olleh.com
+
+menuwifi.pas.olleh.com
+
+hybrid.olleh.com
 
 newctringo.kt070.co.kr
 
@@ -5484,6 +5964,14 @@ ktdcb.kt.co.kr
 
 test.ktdcb.kt.co.kr
 
+ktffirst.magicn.com
+
+first.mobile.kt.com
+
+m.isearch.kt.com
+
+gw.isearch.kt.com
+
 firstonm.show.co.kr
 
 m.isearch.olleh.com
@@ -5494,14 +5982,6 @@ first.mobile.olleh.com
 
 firstonm.mobile.olleh.com
 
-ktffirst.magicn.com
-
-first.mobile.kt.com
-
-m.isearch.kt.com
-
-gw.isearch.kt.com
-
 gigaeyes-vkrs.kt.com
 
 test.tbgigaeyes-vkrs.kt.co.kr
@@ -5511,6 +5991,122 @@ test.gigaeyes-vkrs.kt.co.kr
 m.anyfax.co.kr
 
 www.anyfax.co.kr
+
+ulleungph.ollehslp.com
+
+vc.ollehslp.com
+
+winwin.e-hyundai.ollehslp.com
+
+winwin-hyundai.ollehslp.com
+
+winwinpa.e-hyundai.ollehslp.com
+
+winwinph.e-hyundai.ollehslp.com
+
+wooricyberu.ollehslp.com
+
+wooricyberuapp.ollehslp.com
+
+wooricyberupa.ollehslp.com
+
+wooricyberuph.ollehslp.com
+
+worldvision.ollehslp.com
+
+worldvisionpa.ollehslp.com
+
+worldvisionph.ollehslp.com
+
+wslpadmin.ollehslp.com
+
+yangsan.ollehslp.com
+
+yangsanpa.ollehslp.com
+
+yangsanph.ollehslp.com
+
+yw.ollehslp.com
+
+ywpa.ollehslp.com
+
+ywph.ollehslp.com
+
+asanklid.ollehslp.com
+
+asanklidpa.ollehslp.com
+
+asanklidph.ollehslp.com
+
+asanpa.ollehslp.com
+
+asanph.ollehslp.com
+
+academy.kigepe.ollehslp.com
+
+asan.ollehslp.com
+
+asp.ollehslp.com
+
+at.ollehslp.com
+
+atph.ollehslp.com
+
+bccard.ollehslp.com
+
+bccardfamily.ollehslp.com
+
+bccardfamilypa.ollehslp.com
+
+atpa.ollehslp.com
+
+bccardfamilyph.ollehslp.com
+
+bccardpa.ollehslp.com
+
+bccardph.ollehslp.com
+
+bkr.ollehslp.com
+
+bkrpa.ollehslp.com
+
+bkrph.ollehslp.com
+
+bok.ollehslp.com
+
+bokpa.ollehslp.com
+
+bokph.ollehslp.com
+
+br.ollehslp.com
+
+brpa.ollehslp.com
+
+brph.ollehslp.com
+
+centios.ollehslp.com
+
+centiospa.ollehslp.com
+
+centiosph.ollehslp.com
+
+cesco.ollehslp.com
+
+cescopa.ollehslp.com
+
+cescoph.ollehslp.com
+
+chaesundang.ollehslp.com
+
+chaesundangpa.ollehslp.com
+
+chaesundangph.ollehslp.com
+
+chesundang.ollehslp.com
+
+chesundangpa.ollehslp.com
+
+chesundangph.ollehslp.com
 
 chungjupa.ollehslp.com
 
@@ -6580,122 +7176,6 @@ vnetph.ollehslp.com
 
 winwin.ollehslp.com
 
-ulleungph.ollehslp.com
-
-vc.ollehslp.com
-
-winwin.e-hyundai.ollehslp.com
-
-winwin-hyundai.ollehslp.com
-
-winwinpa.e-hyundai.ollehslp.com
-
-winwinph.e-hyundai.ollehslp.com
-
-wooricyberu.ollehslp.com
-
-wooricyberuapp.ollehslp.com
-
-wooricyberupa.ollehslp.com
-
-wooricyberuph.ollehslp.com
-
-worldvision.ollehslp.com
-
-worldvisionpa.ollehslp.com
-
-worldvisionph.ollehslp.com
-
-wslpadmin.ollehslp.com
-
-yangsan.ollehslp.com
-
-yangsanpa.ollehslp.com
-
-yangsanph.ollehslp.com
-
-yw.ollehslp.com
-
-ywpa.ollehslp.com
-
-ywph.ollehslp.com
-
-asanklid.ollehslp.com
-
-asanklidpa.ollehslp.com
-
-asanklidph.ollehslp.com
-
-asanpa.ollehslp.com
-
-asanph.ollehslp.com
-
-academy.kigepe.ollehslp.com
-
-asan.ollehslp.com
-
-asp.ollehslp.com
-
-at.ollehslp.com
-
-atph.ollehslp.com
-
-bccard.ollehslp.com
-
-bccardfamily.ollehslp.com
-
-bccardfamilypa.ollehslp.com
-
-atpa.ollehslp.com
-
-bccardfamilyph.ollehslp.com
-
-bccardpa.ollehslp.com
-
-bccardph.ollehslp.com
-
-bkr.ollehslp.com
-
-bkrpa.ollehslp.com
-
-bkrph.ollehslp.com
-
-bok.ollehslp.com
-
-bokpa.ollehslp.com
-
-bokph.ollehslp.com
-
-br.ollehslp.com
-
-brpa.ollehslp.com
-
-brph.ollehslp.com
-
-centios.ollehslp.com
-
-centiospa.ollehslp.com
-
-centiosph.ollehslp.com
-
-cesco.ollehslp.com
-
-cescopa.ollehslp.com
-
-cescoph.ollehslp.com
-
-chaesundang.ollehslp.com
-
-chaesundangpa.ollehslp.com
-
-chaesundangph.ollehslp.com
-
-chesundang.ollehslp.com
-
-chesundangpa.ollehslp.com
-
-chesundangph.ollehslp.com
-
 tb.snc.kt.com
 
 tb.smarttalk.kt.com
@@ -6720,11 +7200,11 @@ offer.onmas.kt.com
 
 srv.vos.kt.com
 
-app.voc.kt.com
-
 freesam.kt.com
 
 app.voc.olleh.com
+
+app.voc.kt.com
 
 smartplay.tv.kt.com
 
@@ -6796,9 +7276,9 @@ tbcms.pointhub.clipwallet.co.kr
 
 admin.pointhub.clipwallet.co.kr
 
-tbgpay.kt.co.kr
-
 gpay.kt.co.kr
+
+tbgpay.kt.co.kr
 
 kids.kt.com
 
@@ -6814,17 +7294,17 @@ www.inote.kt.com
 
 inote.kt.com
 
-admin-dev.coupon.kt.com
-
-service-dev.coupon.kt.com
-
-payment-dev.coupon.kt.com
-
 admin.coupon.kt.com
 
 service.coupon.kt.com
 
 payment.coupon.kt.com
+
+admin-dev.coupon.kt.com
+
+service-dev.coupon.kt.com
+
+payment-dev.coupon.kt.com
 
 cleaniplus.phonesrv.kt.com
 
@@ -6846,6 +7326,8 @@ biz.iotmakers.kt.com
 
 bizservice.iotmakers.kt.com
 
+ktvpn.kt.com
+
 9ii.kornet.net
 
 ktvpn.kt.com
@@ -6859,6 +7341,8 @@ api.biznaru.kt.com
 webv1.bss-iot.kt.com
 
 response.iotmail.kt.com
+
+iot.kt-bill.kt.com
 
 pay.dt.kt.com
 
@@ -6876,11 +7360,11 @@ pon.olleh.com
 
 loyalty.kt.com
 
-rtk.gnss.kt.co.kr
-
 supl.kt.co.kr
 
 rtkgnss.eagle.kt.co.kr
+
+rtk.gnss.kt.co.kr
 
 suplbd.kt.co.kr
 
@@ -6954,11 +7438,11 @@ auth.kt.co.kr
 
 tracking.iot.kt.com
 
-saybo.kttcs.com
-
 say.olleh.com
 
 say.kt.com
+
+saybo.kttcs.com
 
 familybox-dev.kt.com
 
@@ -7006,11 +7490,11 @@ community.ktedi.com
 
 openissuer.ktipmedia.co.kr
 
+tbcp.kt.com
+
 cai.cp.kt.com
 
 cms.kt.com
-
-tbcp.kt.com
 
 cp.kt.com
 
@@ -7047,6 +7531,8 @@ m.kidscare.olleh.com
 ktmvno.kt.com
 
 kt-st.kt.com
+
+cert.kt.com
 
 cert.kt.com
 
@@ -7154,31 +7640,37 @@ gdev.mkate.kt.com
 
 wzone.kt.com
 
+emo.gigaenergy.kt.com
+
 emo-ec.gigaenergy.kt.com
 
 test.emo-ec.gigaenergy.kt.com
-
-emo.gigaenergy.kt.com
-
-m.skype.kt.com
-
-image.kt.co.kr
 
 image.kt.com
 
 sip.kt.com
 
+sip.kt.com
+
+sip.kt.com
+
+web.skype.kt.com
+
 web.skype.kt.com
 
 media.skype.kt.com
+
+media.skype.kt.com
+
+m.skype.kt.com
+
+image.kt.co.kr
 
 lyncdiscover.kt.com
 
 sdpismweb.kt.com
 
-openapi.spam.kt.com
-
-admin.spam.kt.com
+spamfilter.show.co.kr
 
 spamfilter.mobile.kt.com
 
@@ -7194,29 +7686,23 @@ voisn.co.kr
 
 www.voisn.com
 
-spamfilter.show.co.kr
+openapi.spam.kt.com
+
+admin.spam.kt.com
 
 gbox.img.kt.com
 
 wap.gbox.kt.com
 
-service.speaker.ktipmedia.co.kr
-
-gbox.srvapp.kt.com
-
 svc.gbox.kt.com
 
 egw.gbox.kt.com
 
+gbox.srvapp.kt.com
+
 stg.gbox.kt.com
 
-apivpnsmartfarm.kt.co.kr
-
-apismartfarm.kt.co.kr
-
-vmssmartfarm.kt.co.kr
-
-oauthsmartfarm.kt.co.kr
+service.speaker.ktipmedia.co.kr
 
 test.websmartfarm.kt.co.kr
 
@@ -7230,6 +7716,14 @@ test.etcsmartfarm.kt.co.kr
 
 smartfarm.kt.co.kr
 
+apivpnsmartfarm.kt.co.kr
+
+apismartfarm.kt.co.kr
+
+vmssmartfarm.kt.co.kr
+
+oauthsmartfarm.kt.co.kr
+
 api.gghotel.kt.com
 
 web.gghotel.kt.com
@@ -7238,6 +7732,8 @@ ktris.kt.com
 
 welfare.gigasecure.kt.com
 
+ec.plusktmeg.kt.com
+
 ktmegapi.kt.com
 
 gigaenergy.kt.com
@@ -7245,12 +7741,6 @@ gigaenergy.kt.com
 ktmeg.kt.com
 
 ktmegtoc.kt.com
-
-ec.plusktmeg.kt.com
-
-tb.ktmeg.kt.com
-
-ec.ktmeg.kt.com
 
 dev.ktmeg.kt.com
 
@@ -7264,6 +7754,18 @@ tb.ktmegapi.kt.com
 
 tb.gigaenergy.kt.com
 
+gigaenergy.kt.com
+
+tb.ktmeg.kt.com
+
+ec.ktmeg.kt.com
+
+ktmegapi.kt.com
+
+ktmegtoc.kt.com
+
+ktmeg.kt.com
+
 ktmegtocdev.kt.com
 
 ktmegdev.kt.com
@@ -7276,13 +7778,13 @@ dlppolicy.kt.com
 
 dlplog.kt.com
 
-tb.ecupi.kt.com
-
-ecupi.kt.com
-
 tb.pairing.kt.com
 
 pairing.ktipmedia.co.kr
+
+tb.ecupi.kt.com
+
+ecupi.kt.com
 
 pcsecurity.olleh.com
 
@@ -7306,6 +7808,10 @@ pcsecurity-ap.kt.com
 
 pcsecurity-fs.kt.com
 
+bp.kt.com
+
+dev.teamdrive.kt.co.kr
+
 teamplay.kt.co.kr
 
 teamroom.kt.co.kr
@@ -7320,7 +7826,7 @@ dev.teamroom.kt.co.kr
 
 dev.teamoffice.kt.co.kr
 
-dev.teamdrive.kt.co.kr
+md.megatvdnp.co.kr
 
 md.megatvdnp.co.kr
 
@@ -7330,7 +7836,15 @@ gj.megatvdnp.co.kr
 
 cold1.megatvdnp.co.kr
 
+cold1.megatvdnp.co.kr
+
+cold1.megatvdnp.co.kr
+
+cold1.megatvdnp.co.kr
+
 cold2.megatvdnp.co.kr
+
+otmfree.megatvdnp.co.kr
 
 otmfree.megatvdnp.co.kr
 
@@ -7364,17 +7878,19 @@ cugcmsapi.kt.com
 
 cugenc.kt.com
 
+adpr.kt.co.kr
+
 nsso.kt.com
 
 pkis.kt.com
 
 nsso.kt.co.kr
 
-adpr.kt.co.kr
-
 adfs.kt.co.kr
 
 service.fintech.kt.com
+
+ktedu.kt.com
 
 ktedu.kt.com
 
@@ -7394,13 +7910,13 @@ mvnords.kt.com
 
 mbs.kt.com
 
-mpay.kt.co.kr
-
 mpay.olleh.com
 
 mpayonm.olleh.com
 
 mpayonm.kt.co.kr
+
+mpay.kt.co.kr
 
 kemp02.biz.olleh.com
 
@@ -7418,13 +7934,17 @@ vpnktds.kt.com
 
 vpnpms.kt.co.kr
 
+partner.spm.kt.com
+
+partner.kt.co.kr
+
 partner.kt.co.kr
 
 partner.kt.com
 
 srm.kt.com
 
-partner.spm.kt.com
+partner.kt.com
 
 a-kos.kt.com
 
@@ -7435,6 +7955,8 @@ test.a-kos.kt.com
 api.ktivi.kt.com
 
 pms.cp.kt.com
+
+clean.internet.kt.com
 
 cleani.kt.com
 
@@ -7447,8 +7969,6 @@ clean.internet.qook.co.kr
 cleani.internet.olleh.com
 
 clean.megapass.net
-
-clean.internet.kt.com
 
 m.seezntv.com
 
@@ -7464,7 +7984,15 @@ seezntv.com
 
 www.seezntv.com
 
+tvmobile.olleh.com
+
 otmwebui.megatvdnp.co.kr
+
+obgw2.kt.co.kr
+
+obgw.kt.co.kr
+
+epccomm.ktbcp.kt.co.kr
 
 manager.ktbcp.kt.co.kr
 
@@ -7472,23 +8000,17 @@ manager.tbktbcp.kt.co.kr
 
 bcapi.tbktbcp.kt.co.kr
 
-obgw2.kt.co.kr
-
-anchor.ktbcp.kt.co.kr
-
-obgw.kt.co.kr
-
-epccomm.ktbcp.kt.co.kr
-
 epcmanager.ktbcp.kt.co.kr
 
 epcstat.ktbcp.kt.co.kr
 
-react.hiot.kt.com
+anchor.ktbcp.kt.co.kr
 
 tb.ec.hiot.olleh.com
 
 fota.hiot.kt.com
+
+react.hiot.kt.com
 
 nbasedev.kt.com
 
@@ -7498,9 +8020,9 @@ erpbarcode.kt.com
 
 erpbarcodepda.kt.com
 
-admin.nbaseqa.kt.co.kr
-
 merp.kt.com
+
+admin.nbaseqa.kt.co.kr
 
 tbs.bluelinktnb.com
 
@@ -7540,9 +8062,9 @@ stthaproxy01.bizmate.kt.com
 
 stthaproxyvip.bizmate.kt.com
 
-test.ccaro2o.kt.co.kr
-
 ccaro2o.kt.co.kr
+
+test.ccaro2o.kt.co.kr
 
 support.kornet.net
 
@@ -7570,11 +8092,17 @@ sw.megatvdnp.co.kr
 
 newsfile.kt.co.kr
 
+newsfile.kt.co.kr
+
+press.kt.com
+
 mkbn.kt.com
 
 kbnstream.kt.co.kr
 
 igate.bss-iot.kt.com
+
+iot.GiGABILLs.kt.com
 
 iot.GiGABILLs.kt.com
 
@@ -7594,21 +8122,19 @@ crab.magicn.com
 
 crab.kt.com
 
-tims.bigsight.kt.com
-
-tims-cc.bigsight.kt.com
-
 marketing.kt.co.kr
 
+tims.bigsight.kt.com
+
 tims-mkt.bigsight.kt.com
+
+tims-cc.bigsight.kt.com
 
 tims-api.bigsight.kt.com
 
 kcdc.myroute.kt.co.kr
 
 api.myroute.kt.co.kr
-
-tns.appgw.kt.co.kr
 
 gigastealth.kt.co.kr
 
@@ -7628,6 +8154,8 @@ test.mqstealth.kt.co.kr
 
 tnsdev.appgw.kt.co.kr
 
+tns.appgw.kt.co.kr
+
 tnstb.appgw.kt.co.kr
 
 dev.proxystealth.kt.co.kr
@@ -7644,16 +8172,6 @@ mrms.kt.com
 
 enterprise.kt.com
 
-ktfm3dcp.magicn.co.kr
-
-ktfm3ddown.magicn.co.kr
-
-ktfmfcp.magicn.co.kr
-
-ktfmfdown.magicn.co.kr
-
-tb.tmonm.kt.com
-
 tmonm.kt.com
 
 ktfm3dcp.magicn.com
@@ -7664,13 +8182,15 @@ ktfmfcp.magicn.com
 
 ktfmfdown.magicn.com
 
-www.adat.co.kr
+ktfm3dcp.magicn.co.kr
 
-otninf.allad.kt.com
+ktfm3ddown.magicn.co.kr
 
-lbsplatform.olleh.com
+ktfmfcp.magicn.co.kr
 
-admed.adat.co.kr
+ktfmfdown.magicn.co.kr
+
+tb.tmonm.kt.com
 
 adinf.adat.co.kr
 
@@ -7686,9 +8206,19 @@ inf.adat.co.kr
 
 med.adat.co.kr
 
+test.infmed.adat.co.kr
+
 livead.adat.co.kr
 
 test.livead.adat.co.kr
+
+www.adat.co.kr
+
+otninf.allad.kt.com
+
+lbsplatform.olleh.com
+
+admed.adat.co.kr
 
 sso1.ktipmedia.co.kr
 
@@ -7768,6 +8298,8 @@ ems.olleh.com
 
 ems.kt.com
 
+ems.kt.com
+
 mdm.kt.com
 
 mdmdb01.kt.com
@@ -7777,6 +8309,8 @@ mdmdb01-vip.kt.com
 mdmdb02.kt.com
 
 mdmdb02-vip.kt.com
+
+mdmdb-scan.kt.com
 
 mdmdb-scan.kt.com
 
@@ -7828,7 +8362,13 @@ ktguard.kt.com
 
 www.ktlifeplan.com
 
+www.ktlifeplan.com
+
+www.ktlifeplan.com
+
 ktlifeplan.com
+
+www.ktlifeplan.com
 
 career.ktlifeplan.com
 
@@ -7837,6 +8377,8 @@ cuin.ktlifeplan.com
 recruit.ktlifeplan.com
 
 m-fm.neoss.kt.com
+
+sla.kt.co.kr
 
 sla.kt.co.kr
 
@@ -7872,15 +8414,25 @@ nominum.kornet.net
 
 we.purmai.com
 
+we.purmai.com
+
+we.purmai.com
+
+we.purmai.com
+
+we.purmai.com
+
 iotmakers.kt.com
-
-dev.tvcdn-stream01.ktipmedia.co.kr
-
-ott.streaming.ktipmedia.co.kr
 
 dev.tvcdn-stream02.ktipmedia.co.kr
 
+ott.streaming.ktipmedia.co.kr
+
+dev.tvcdn-stream01.ktipmedia.co.kr
+
 dev.tvcdn.ktipmedia.co.kr
+
+kterp.kt.com
 
 ktpap01p.kt.com
 
@@ -7894,8 +8446,6 @@ sapconsole01.kt.com
 
 sapconsole02.kt.com
 
-kterp.kt.com
-
 auth.ktivi.kt.com
 
 service.ktivi.kt.com
@@ -7906,13 +8456,27 @@ maas.kt.com
 
 eng.maas.kt.com
 
+mail-bigsight.kt.com
+
 bigsight.kt.com
 
-mail-bigsight.kt.com
+paperless.bizmeka.com
 
 paperless.kt.com
 
-paperless.bizmeka.com
+api.ktgigalive.co.kr
+
+www.ktgigalive.co.kr
+
+ktimms.co.kr
+
+api.ktimms.co.kr
+
+auth.ktgigalive.co.kr
+
+dnld.ktgigalive.co.kr
+
+www.ktimms.co.kr
 
 m.supervr.kt.com
 
@@ -7927,18 +8491,6 @@ dnld.ktimms.co.kr
 gw.ktimms.co.kr
 
 auth.ktimms.co.kr
-
-api.ktgigalive.co.kr
-
-www.ktgigalive.co.kr
-
-ktimms.co.kr
-
-api.ktimms.co.kr
-
-auth.ktgigalive.co.kr
-
-dnld.ktgigalive.co.kr
 
 membership.biz.kt.com
 
@@ -8004,6 +8556,8 @@ respeech.ktipmedia.co.kr
 
 idc.kt.com
 
+idc.kt.com
+
 pidicdsn01.kt.co.kr
 
 pidicdsn02.kt.co.kr
@@ -8036,7 +8590,11 @@ facedb02-vip.kt.com
 
 facedb-scan.kt.com
 
+facedb-scan.kt.com
+
 facewas01p.kt.com
+
+face.kt.com
 
 dev.meai.kt.com
 
@@ -8058,6 +8616,8 @@ eaidb02-vip.kt.com
 
 eaidb-scan.kt.com
 
+eaidb-scan.kt.com
+
 gigasafe.kt.com
 
 dev.gigasafesoc.kt.co.kr
@@ -8066,15 +8626,15 @@ dev.mgigasafeop.kt.co.kr
 
 mgigasafeop.kt.co.kr
 
+works.ktds.co.kr
+
+spaceapidev.ktds.co.kr
+
 m.dev.groupmail.kt.co.kr
 
 m.groupmail.kt.co.kr
 
 worksapp.ktds.co.kr
-
-works.ktds.co.kr
-
-spaceapidev.ktds.co.kr
 
 groupmail.kt.co.kr
 
@@ -8111,8 +8671,6 @@ bwpap02p.kt.com
 bwpci01.kt.com
 
 bwpci02.kt.com
-
-ezsso.bizmeka.com
 
 bizmeka.ktbiz.com
 
@@ -8172,6 +8730,8 @@ ezsales.bizmeka.com
 
 ezservice.bizmeka.com
 
+ezsso.bizmeka.com
+
 eztax.bizmeka.com
 
 ezbizinfo.bizmeka.com
@@ -8180,11 +8740,13 @@ ezwebfax.bizmeka.com
 
 ezlifecare.bizmeka.com
 
+ezsso.bizmeka.com
+
 vring2u.kt.com
 
 mrds.kt.com
 
-test-ses2.ktvsaas.co.kr
+mrds.kt.com
 
 test-ses.ktvsaas.co.kr
 
@@ -8192,19 +8754,21 @@ test-gwec2.ktvsaas.co.kr
 
 test-gwec.ktvsaas.co.kr
 
+test-ses2.ktvsaas.co.kr
+
 test-dms.ktvsaas.co.kr
-
-video-confbd.kt.com
-
-vcbd-mupdate.kt.com
-
-biz-comm.kt.com
 
 vc-mupdate.kt.com
 
 m-innertel.kt.com
 
 video-conf.kt.com
+
+video-confbd.kt.com
+
+vcbd-mupdate.kt.com
+
+biz-comm.kt.com
 
 ktgc.kt.co.kr
 
@@ -8216,7 +8780,11 @@ esemuro.bizmeka.com
 
 semuromail3.bizmeka.com
 
+semuromail3.bizmeka.com
+
 semuromail2.bizmeka.com
+
+semuromail3.bizmeka.com
 
 semuhub.bizmeka.com
 
@@ -8228,7 +8796,11 @@ ips.premium.kornet.net
 
 spam.premium.kornet.net
 
+spam.premium.kornet.net
+
 chelsea.kt.co.kr
+
+repo.chelsea.kt.co.kr
 
 codereview.chelsea.kt.co.kr
 
@@ -8248,33 +8820,7 @@ codeanlys.chelsea.kt.co.kr
 
 ktdn.chelsea.kt.co.kr
 
-repo.chelsea.kt.co.kr
-
 biz.opera.kt.com
-
-wsm.bizmeka.com
-
-webservices.bizmeka.com
-
-webservices.bizmeka.net
-
-wsm.bizmeka.net
-
-scm.bizmeka.com
-
-scmscc.bizmeka.com
-
-emp-was1.bizmeka.com
-
-econt.bizmeka.com
-
-econtract.bizmeka.com
-
-retailscm.bizmeka.com
-
-security.bizmeka.com
-
-sports.bizmeka.com
 
 voc.bizmeka.net
 
@@ -8334,9 +8880,29 @@ aut1.bizmeka.com
 
 aut2.bizmeka.com
 
-api.mpt.ktipmedia.co.kr
+wsm.bizmeka.com
 
-web.ktgoodpay.com
+webservices.bizmeka.com
+
+webservices.bizmeka.net
+
+wsm.bizmeka.net
+
+scm.bizmeka.com
+
+scmscc.bizmeka.com
+
+emp-was1.bizmeka.com
+
+econt.bizmeka.com
+
+econtract.bizmeka.com
+
+retailscm.bizmeka.com
+
+security.bizmeka.com
+
+sports.bizmeka.com
 
 kt.posbank.co.kr
 
@@ -8353,6 +8919,10 @@ stg-api.dev-ktgoodpay.com
 stg-bo.dev-ktgoodpay.com
 
 vpn.ktgoodpay.com
+
+api.mpt.ktipmedia.co.kr
+
+web.ktgoodpay.com
 
 api.gsd.kt.co.kr
 
@@ -8442,13 +9012,15 @@ pds.ktwibro.com
 
 i115.olleh.com
 
-pds.kt.co.kr
-
 pds.letskt.com
 
 pds.kt.com
 
+pds.kt.co.kr
+
 i115.co.kr
+
+pds.kt100.com
 
 abuse.kornet.net
 
@@ -8468,8 +9040,6 @@ api.voicerec.kt.com
 
 m-ems.kt.co.kr
 
-mling.ktipmedia.co.kr
-
 bdp.kt.co.kr
 
 cms.bdp.kt.co.kr
@@ -8483,6 +9053,8 @@ acplatform.bdp.kt.co.kr
 acapi.bdp.kt.co.kr
 
 acauth.bdp.kt.co.kr
+
+mling.ktipmedia.co.kr
 
 gsm.kt.co.kr
 
@@ -8530,13 +9102,15 @@ ktsecuraider.kt.co.kr
 
 phishingnet.kt.co.kr
 
-ebrain.kt.com
-
 api.ebrain.kt.com
+
+ebrain.kt.com
 
 tbtrade.gigaenergy.kt.com
 
 devtrade.gigaenergy.kt.com
+
+tbtrade.gigaenergy.kt.com
 
 trade.gigaenergy.kt.com
 
@@ -8548,11 +9122,15 @@ gc.kt.co.kr
 
 131.kt.co.kr
 
+131.kt.co.kr
+
 1390.kt.com
+
+mobileospia.kt.com
 
 catqr.kt.co.kr
 
-mobileospia.kt.com
+imsivdi.kt.com
 
 ktvdi.kt.com
 
@@ -8579,6 +9157,8 @@ navertvdev.megatvdnp.co.kr
 n016.com
 
 www.n016.com
+
+fips.kt.com
 
 fips.kt.com
 
@@ -8618,6 +9198,28 @@ www.infomessaging.net
 
 bussales.kt.com
 
+app.bizmobile.kt.com
+
+app01-mpbx.kt.com
+
+dev.open.ktvsaas.co.kr
+
+gwec.vsaastb.co.kr
+
+vod.vsaastb.co.kr
+
+int.vsaastb.co.kr
+
+test-dnd.vsaastb.co.kr
+
+test-vod2.vsaastb.co.kr
+
+test-dnd2.vsaastb.co.kr
+
+test-ses2.vsaastb.co.kr
+
+test-gwec2.vsaastb.co.kr
+
 test-open.vsaastb.co.kr
 
 logw.gigaeyes.co.kr
@@ -8640,28 +9242,6 @@ ses.vsaastb.co.kr
 
 test-gwec3.vsaastb.co.kr
 
-app01-mpbx.kt.com
-
-app.bizmobile.kt.com
-
-gwec.vsaastb.co.kr
-
-vod.vsaastb.co.kr
-
-int.vsaastb.co.kr
-
-test-dnd.vsaastb.co.kr
-
-test-vod2.vsaastb.co.kr
-
-test-dnd2.vsaastb.co.kr
-
-test-ses2.vsaastb.co.kr
-
-test-gwec2.vsaastb.co.kr
-
-dev.open.ktvsaas.co.kr
-
 test-tbstm3.ktvsaas.co.kr
 
 test-tbstm2.ktvsaas.co.kr
@@ -8680,11 +9260,11 @@ api.chvod37.megatvdnp.co.kr
 
 api.chvod36.megatvdnp.co.kr
 
+api.chvod34.megatvdnp.co.kr
+
 api.chvod32.megatvdnp.co.kr
 
 api.chvod31.megatvdnp.co.kr
-
-api.chvod34.megatvdnp.co.kr
 
 aicodingblock.kt.co.kr
 
@@ -8854,13 +9434,15 @@ allad.kt.com
 
 qrcode.kt.com
 
-nccdev.cc.kt.com
+allad.kt.com
 
 nccwas.cc.kt.com
 
 nccdars.cc.kt.com
 
 nccdps.cc.kt.com
+
+nccdev.cc.kt.com
 
 ccdps.cc.kt.com
 
@@ -8879,6 +9461,10 @@ bo.oki.ktipmedia.co.kr
 apptv.ktipmedia.co.kr
 
 apptvbmt.ktipmedia.co.kr
+
+api.hfitsvc.com
+
+ec.hfitsvc.com
 
 freeview2.kt.co.kr
 
@@ -8972,11 +9558,11 @@ hn.csms.kt.com
 
 dg.csms.kt.com
 
-nexus.kt.co.kr
+swdevhub.kt.co.kr
 
 mx.nexus.kt.co.kr
 
-swdevhub.kt.co.kr
+nexus.kt.co.kr
 
 sdm.kt.co.kr
 
@@ -8994,29 +9580,29 @@ cass.wm.kt.com
 
 cassmeta.show.co.kr
 
-portal.gigaoffice.olleh.com
-
 mss.gigaoffice.kt.com
+
+portal.gigaoffice.olleh.com
 
 securaider.kt.co.kr
 
 mwing.kt.com
 
-ktims.net
-
 food.biz.olleh.com
 
-gigaoffice.kt.com
+ktims.net
 
 gigaoffice.olleh.com
+
+gigaoffice.kt.com
 
 portal.gigaoffice.kt.com
 
 dams.kt.com
 
-m.fppw.kt.co.kr
+openlink.proxy.techinsight.kt.com
 
-daegu2.m-notice.kt.com
+m.fppw.kt.co.kr
 
 anyang2.m-notice.kt.com
 
@@ -9031,6 +9617,46 @@ songpa2.m-notice.kt.com
 haengdang2.m-notice.kt.com
 
 jeonju.m-notice.kt.com
+
+daegu2.m-notice.kt.com
+
+anyang.m-notice.kt.com
+
+yangjae1.m-notice.kt.com
+
+yangjae2.m-notice.kt.com
+
+yangjae3.m-notice.kt.com
+
+yangjae4.m-notice.kt.com
+
+ulsan.m-notice.kt.com
+
+wonju.m-notice.kt.com
+
+iksan.m-notice.kt.com
+
+ilsan.m-notice.kt.com
+
+jinju.m-notice.kt.com
+
+chuncheon.m-notice.kt.com
+
+chungju.m-notice.kt.com
+
+pyeongtaek.m-notice.kt.com
+
+pohang.m-notice.kt.com
+
+hadang.m-notice.kt.com
+
+haengdang.m-notice.kt.com
+
+hyehwa1.m-notice.kt.com
+
+hyehwa2.m-notice.kt.com
+
+hongseong.m-notice.kt.com
 
 gangneung.m-notice.kt.com
 
@@ -9118,44 +9744,6 @@ ansan1.m-notice.kt.com
 
 ansan2.m-notice.kt.com
 
-anyang.m-notice.kt.com
-
-yangjae1.m-notice.kt.com
-
-yangjae2.m-notice.kt.com
-
-yangjae3.m-notice.kt.com
-
-yangjae4.m-notice.kt.com
-
-ulsan.m-notice.kt.com
-
-wonju.m-notice.kt.com
-
-iksan.m-notice.kt.com
-
-ilsan.m-notice.kt.com
-
-jinju.m-notice.kt.com
-
-chuncheon.m-notice.kt.com
-
-chungju.m-notice.kt.com
-
-pyeongtaek.m-notice.kt.com
-
-pohang.m-notice.kt.com
-
-hadang.m-notice.kt.com
-
-haengdang.m-notice.kt.com
-
-hyehwa1.m-notice.kt.com
-
-hyehwa2.m-notice.kt.com
-
-hongseong.m-notice.kt.com
-
 robops.kt.com
 
 web.newrc.kt.com
@@ -9165,6 +9753,8 @@ svr2.live.kornet.net
 pcmif.kt.com
 
 m-notice.kt.com
+
+kttalk.net
 
 admin.ktvpn.com
 
@@ -9184,13 +9774,13 @@ www.ontactedu.co.kr
 
 stream.ontactedu.co.kr
 
-api.ontactedu.co.kr
-
 liveedu.ontactedu.co.kr
 
 media.ontactedu.co.kr
 
 trans.ontactedu.co.kr
+
+api.ontactedu.co.kr
 
 gigagenie.bizmeca.com
 
@@ -9206,9 +9796,11 @@ shop.biz.kt.com
 
 lm-ems.gigaenergy.kt.com
 
-ktf.megameet.co.kr
+smaf.bizmeka.com
 
-mcatms.kt.co.kr
+smac.bizmeka.com
+
+smald.bizmeka.com
 
 call.bizmeka.com
 
@@ -9220,6 +9812,10 @@ polling.kvoting.go.kr
 
 ktkhons.com
 
+ktf.megameet.co.kr
+
+mcatms.kt.co.kr
+
 iamhere.co.kr
 
 hubpass.co.kr
@@ -9229,12 +9825,6 @@ spam.ktann.com
 hyundaitnbnaviupdate.com
 
 www.hyundaitnbnaviupdate.com
-
-smaf.bizmeka.com
-
-smac.bizmeka.com
-
-smald.bizmeka.com
 
 giga.ktkhons.com
 
@@ -9252,9 +9842,33 @@ cweb-mv.bizmeka.com
 
 megameet.bizmeka.com
 
+i-cam.bizmeka.com
+
+icam.bizmeka.com
+
+icam.icam.co.kr
+
+newagent.icam.co.kr
+
+obcc01.bizmeka.com
+
+obcc.bizmeka.com
+
+sohoapp.bizmeka.com
+
+sohopayment.bizmeka.com
+
+food.bizmeka.com
+
+order.bizmeka.com
+
 spam.bizmeka.com
 
 adp.ktcdn.com
+
+adp.ktcdn.com
+
+csp.ktcdn.com
 
 csp.ktcdn.com
 
@@ -9267,6 +9881,8 @@ mrtg1.ktcdn.com
 mrtg2.ktcdn.com
 
 ac.ktics.com
+
+admin.ktics.com
 
 admin.ktics.com
 
@@ -9286,11 +9902,15 @@ ncsoft-mrtg.ktics.com
 
 openapi.ktics.com
 
+openapi.ktics.com
+
 slm.ktics.com
 
 speedtest.ktics.com
 
 tcadmin.ktics.com
+
+csp30.ktcdn.com
 
 conference.bizmeka.com
 
@@ -9354,33 +9974,17 @@ securedisk.kt-icc.com
 
 msp4.kt-icc.com
 
+msp4.kt-icc.com
+
 msp7.kt-icc.com
+
+nmsp1.kt-icc.com
 
 nmsp1.kt-icc.com
 
 msp4.kt-idc.com
 
 msp7.kt-idc.com
-
-sohoapp.bizmeka.com
-
-sohopayment.bizmeka.com
-
-food.bizmeka.com
-
-order.bizmeka.com
-
-i-cam.bizmeka.com
-
-icam.bizmeka.com
-
-icam.icam.co.kr
-
-newagent.icam.co.kr
-
-obcc01.bizmeka.com
-
-obcc.bizmeka.com
 
 firewall.kt-icc.com
 
@@ -9397,6 +10001,8 @@ cleanzone.kt-icc.com
 appdb02.kt.com
 
 appdb02-vip.kt.com
+
+appdb-scan.kt.com
 
 appdb-scan.kt.com
 
@@ -9434,6 +10040,14 @@ idas.kt.com
 
 cubot.kt.co.kr
 
+cubot.kt.co.kr
+
+ism.kt.co.kr
+
+ism.kt.co.kr
+
+ism.kt.co.kr
+
 ism.kt.co.kr
 
 wi.kt.co.kr
@@ -9466,6 +10080,8 @@ cloudphone.kt.co.kr
 
 con.g.api.kt.com
 
+con.g.api.kt.com
+
 forum.chelsea.kt.co.kr
 
 api.tb2vod.seezntv.com
@@ -9484,6 +10100,10 @@ likecache.ktipmedia.co.kr
 
 likecachetb.ktipmedia.co.kr
 
+eojt.kt.com
+
+ethics.kt.com
+
 gnpan.kt.co.kr
 
 sbookeditor.kt.co.kr
@@ -9500,9 +10120,9 @@ dev.ftcomn.kt.co.kr
 
 mers.kt.com
 
-ma.kt.com
-
 dadgdea.purmai.com
+
+ma.kt.com
 
 bppap03p.kt.com
 
@@ -9544,29 +10164,17 @@ win.kt.com
 
 public.pcms.kt.com
 
-managed.ollehkt.biz
+minitab.kt.co.kr
 
-web.dev-ktgoodpay.com
+bppdb01.kt.com
 
-app.ospworkmanager.kt.co.kr
+bppdb02.kt.com
 
-onebox-nms.ollehkt.biz
+bppap02p.kt.com
 
-onebox.ollehkt.biz
+bppap01p.kt.com
 
-managed-cis.ollehkt.biz
-
-wtms.kt.co.kr
-
-api.gigaenergy.kt.com
-
-cems.gigaenergy.kt.com
-
-fems.gigaenergy.kt.com
-
-ktcms.bizmeka.com
-
-ktcms-ftp.bizmeka.com
+cheonan.kornet.net
 
 muc-bizchat-chat.bizmeka.com
 
@@ -9606,15 +10214,29 @@ mam.bizmeka.com
 
 enterpriseenrollment.bizmeka.com
 
-cheonan.kornet.net
+ktcms.bizmeka.com
 
-bppdb01.kt.com
+ktcms-ftp.bizmeka.com
 
-bppdb02.kt.com
+managed.ollehkt.biz
 
-bppap02p.kt.com
+app.ospworkmanager.kt.co.kr
 
-bppap01p.kt.com
+onebox-nms.ollehkt.biz
+
+onebox.ollehkt.biz
+
+web.dev-ktgoodpay.com
+
+managed-cis.ollehkt.biz
+
+wtms.kt.co.kr
+
+api.gigaenergy.kt.com
+
+cems.gigaenergy.kt.com
+
+fems.gigaenergy.kt.com
 
 esbods-nbss.kt.com
 
@@ -9650,23 +10272,97 @@ sptesbb2c-nbss.kt.com
 
 sitesbb2c-nbss.kt.com
 
-oscaui.api.kt.com
+id-in.tbapi.kt.com
 
-onm.api.kt.com
+ktbcp.tbapi.kt.com
 
-proxy-int.tbapi.kt.com
+ktbcp.g.api.kt.com
+
+common.tbapi.kt.com
 
 ktbcp-in.tbapi.kt.com
 
+kos.tbapi.kt.com
+
 kos-in.tbapi.kt.com
+
+lbs.tbapi.kt.com
+
+ktbcp.g.api.kt.com
+
+cus.tbapi.kt.com
+
+id.tbapi.kt.com
+
+msg.tbapi.kt.com
+
+int.tbapi.kt.com
+
+appsso.tbapi.kt.com
+
+dcb.tbapi.kt.com
+
+msg-in.api.kt.com
+
+lbs-in.g.api.kt.com
+
+lbs-in.g.api.kt.com
+
+lbs-in.api.kt.com
+
+msg-in.g.api.kt.com
+
+cus-in.g.api.kt.com
+
+cus-in.api.kt.com
+
+msg-in.g.api.kt.com
+
+cus-in.g.api.kt.com
+
+msg-in.tbapi.kt.com
+
+lbs-in.tbapi.kt.com
+
+cus-in.tbapi.kt.com
+
+int-in.tbapi.kt.com
+
+proxy-int.tbapi.kt.com
+
+ktbcp-in.g.api.kt.com
+
+openapi.kt.com
+
+tb.openapi.kt.com
+
+anyid.g.api.kt.com
 
 anyid.g.api.kt.com
 
 anycus.g.api.kt.com
 
-int.tbapi.kt.com
+anycus.g.api.kt.com
 
-openapi.kt.com
+anyid.tbapi.kt.com
+
+oscaui.api.kt.com
+
+onm.api.kt.com
+
+int-in.g.api.kt.com
+
+id-in.api.kt.com
+
+int-in.g.api.kt.com
+
+id-in.g.api.kt.com
+
+int-in.api.kt.com
+
+id-in.g.api.kt.com
+
+ktbcp-in.g.api.kt.com
 
 esbrds-nbss.kt.com
 
@@ -9679,6 +10375,12 @@ uatrdsfw-nbss.kt.com
 sitesbrds.kt.com
 
 sitrdsfw.kt.com
+
+m.myapp.kt.com
+
+csappw.kt.com
+
+myktgw.kt.co.kr
 
 cris.kt.com
 
@@ -9704,13 +10406,17 @@ omas-in.megatvdnp.co.kr
 
 mein-ui.megatvdnp.co.kr
 
+hub-stg.hermes.kt.com
+
+rcs-stg.hermes.kt.com
+
 ent-stg.hermes.kt.com
 
 ent.hermes.kt.com
 
 hub.hermes.kt.com
 
-hub-stg.hermes.kt.com
+rcs.hermes.kt.com
 
 ktbizsms.kt.com
 
@@ -9720,7 +10426,11 @@ dr-ktbizsms.kt.com
 
 tb.ktbizsms.kt.com
 
+uc01-mpbx.kt.com
+
 mvoip01-mpbx.kt.com
+
+tdb01-mpbx.kt.com
 
 report.kt.com
 
@@ -9742,7 +10452,39 @@ mdmqas.kt.com
 
 mdmqa.kt.com
 
+ktwasB01p.kt.com
+
+ktwasB02p.kt.com
+
+ktwasB03p.kt.com
+
+ktwasB04p.kt.com
+
+mdm.kt.com
+
+mdmdb01.kt.com
+
+mdmdb01-vip.kt.com
+
+mdmdb02.kt.com
+
+mdmdb02-vip.kt.com
+
+mdmdb-scan.kt.com
+
+mdmdb-scan.kt.com
+
 gtass.kt.com
+
+ips.kt.com
+
+tb.ips.kt.com
+
+ktpay.kt.com
+
+tbidcb.kt.com
+
+idcb.kt.com
 
 eaiap06p.kt.com
 
@@ -9754,7 +10496,25 @@ eaiqasap01q.kt.com
 
 eaiqasap02q.kt.com
 
+eaiap02p.kt.com
+
+eaiap04p.kt.com
+
+eaidb01.kt.com
+
+eaidb01-vip.kt.com
+
+eaidb02.kt.com
+
+eaidb02-vip.kt.com
+
+eaidb-scan.kt.com
+
+eaidb-scan.kt.com
+
 scapui.api.kt.com
+
+loyalty.kt.com
 
 vipcom.kt.com
 
@@ -9770,11 +10530,41 @@ trncdmfw-nbss.kt.com
 
 mail-mbx-01.corp.ktad.kt.com
 
+mail.kt.com
+
 autodiscover.kt.com
+
+email.kt.com
 
 uc.kt.com
 
+massmail.kt.com
+
+massmail.group.kt.com
+
+ma1.kt.com
+
+ma2.kt.com
+
+ma3.kt.com
+
+ma4.kt.com
+
+ma5.kt.com
+
+ma6.kt.com
+
+ma7.kt.com
+
+marc.kt.com
+
+otmtb.onm.kt.com
+
 otm.onm.kt.com
+
+ns1.g.pis.kt.com
+
+ns2.g.pis.kt.com
 
 asdb.inomp.kt.com
 
@@ -9786,9 +10576,37 @@ api.ratuq.kt.com
 
 dev.ratuq.kt.com
 
+ollehmvno.kt.com
+
+vcdconsole.ucloudbiz.kt.com
+
+vcdportal.ucloudbiz.kt.com
+
+vcdvcav.ucloudbiz.kt.com
+
+vcdtenantapp.ucloudbiz.kt.com
+
+vmwportal.ucloudbiz.kt.com
+
+vmwconsole.ucloudbiz.kt.com
+
+vmwtenantapp.ucloudbiz.kt.com
+
+vmwvcav.ucloudbiz.kt.com
+
 gmmsc-onm.kt.co.kr
 
 drgmmsc-onm.kt.co.kr
+
+container.cloud.kt.com
+
+ss1.cloud.kt.com
+
+genieblock.kt.co.kr
+
+ns1.g.capri.kt.com
+
+ns2.g.capri.kt.com
 
 nexaweb-nbss.kt.com
 
@@ -9813,6 +10631,12 @@ csctrs.kt.com
 tb.ktbizmms.kt.com
 
 dr-ktbizmms.kt.com
+
+ktcr.cloud.kt.com
+
+greenbike.kt.co.kr
+
+m.tvmobile.kt.com
 
 pnode.md2.ipc.kt.com
 
@@ -9850,11 +10674,25 @@ katewas4.kt.com
 
 teamplus.kt.co.kr
 
-face.kt.co.kr
+teamroom.kt.co.kr
+
+teamdrive.kt.co.kr
+
+teamoffice.kt.co.kr
+
+teamplay.kt.co.kr
+
+mms.ktims.kt.com
 
 api.ldap.kt.com
 
+face.kt.co.kr
+
+adpr.kt.co.kr
+
 nsso.oasys.kt.co.kr
+
+nsso.kt.co.kr
 
 pkis.kt.co.kr
 
@@ -9862,7 +10700,15 @@ ssl.corp.ktad.kt.com
 
 nsso.ktf.com
 
+pkis.kt.com
+
+nsso.kt.com
+
+adfs.kt.co.kr
+
 ldap.kt.com
+
+ktvpn.kt.com
 
 ktdel.kt.co.kr
 
@@ -9870,13 +10716,53 @@ neoss.kt.co.kr
 
 neoss.kt.com
 
+m-neoss.kt.com
+
 esan.ktfwing.com
 
 admin-iotmakers.cloud.kt.co.kr
 
 filter5.kt.com
 
+smfilter3.kt.com
+
+smfiltermanager.kt.com
+
+smtp.kt.co.kr
+
 filtermanager.kt.com
+
+filter1.kt.com
+
+filter2.kt.com
+
+filter3.kt.com
+
+filter4.kt.com
+
+relayfilter1.kt.com
+
+relayfilter2.kt.com
+
+smfilter1.kt.com
+
+smfilter2.kt.com
+
+smtp.kt.com
+
+smfilter1.kt.co.kr
+
+smfilter2.kt.co.kr
+
+filter3.kt.co.kr
+
+filter4.kt.co.kr
+
+groupma.kt.com
+
+groupmail.kt.com
+
+dev.smartoss.kt.co.kr
 
 tbcui.kt.com
 
@@ -9886,7 +10772,21 @@ cuioss.kt.com
 
 sbcui.kt.com
 
-dev.smartoss.kt.co.kr
+smartoss.kt.co.kr
+
+gis.kt.com
+
+dev.gis.kt.com
+
+tile.gis.kt.com
+
+tile1.gis.kt.com
+
+tile2.gis.kt.com
+
+tile3.gis.kt.com
+
+vtile.gis.kt.com
 
 vmapdown.gis.kt.com
 
@@ -9902,21 +10802,17 @@ tboss.kt.com
 
 oss.kt.com
 
+sales.online.kt.com
+
 dev2sales.online.kt.com
+
+online.kt.com
 
 dev2mngr.online.kt.com
 
 mngr.online.kt.com
 
 dev2.online.kt.com
-
-ktdap01d.kt.com
-
-ktdap02d.kt.com
-
-ktddev.kt.com
-
-ktqqas.kt.com
 
 ktqap01q.kt.com
 
@@ -9929,6 +10825,20 @@ ktdap03d.kt.com
 ktpap05p.kt.com
 
 ktpap06p.kt.com
+
+ktdap01d.kt.com
+
+ktdap02d.kt.com
+
+ktddev.kt.com
+
+ktqqas.kt.com
+
+ktpap01p.kt.com
+
+ktpap02p.kt.com
+
+ktpap03p.kt.com
 
 ktpap04p.kt.com
 
@@ -9946,6 +10856,22 @@ ktpdb02-vip.kt.com
 
 ktpdb-scan.kt.com
 
+ktpdb-scan.kt.com
+
+ktpprd.kt.com
+
+kterp.kt.com
+
+sapconsole01.kt.com
+
+sapconsole02.kt.com
+
+gnote.kt.com
+
+knote.kt.com
+
+dev.safeimage.kt.com
+
 showadmin.kt.com
 
 knotemgr.kt.com
@@ -9953,8 +10879,6 @@ knotemgr.kt.com
 agency.kt.com
 
 eform.kt.com
-
-dev.safeimage.kt.com
 
 localsearch.kt.co.kr
 
@@ -9966,7 +10890,17 @@ api.search.kt.com
 
 local.search.kt.com
 
+log.onmas.kt.com
+
+offer.onmas.kt.com
+
 cms.onmas.kt.com
+
+tb.snc.kt.com
+
+tb.smarttalk.kt.com
+
+tb.logapi.kt.com
 
 tb.smartmsg.kt.com
 
@@ -9976,11 +10910,19 @@ dev.offer.onmas.kt.com
 
 dev.cms.onmas.kt.com
 
+tb.log.onmas.kt.com
+
+tb.offer.onmas.kt.com
+
+snc.kt.com
+
+smarttalk.kt.com
+
+targetmenu.kt.com
+
+logapi.kt.com
+
 smartmsg.kt.com
-
-cupi-con.container.kt.com
-
-tb.cupi-con.container.kt.com
 
 api.cupi.kt.com
 
@@ -9989,6 +10931,10 @@ cupi.kt.com
 api.tb.cupi.kt.com
 
 tb.cupi.kt.com
+
+cupi-con.container.kt.com
+
+tb.cupi-con.container.kt.com
 
 kepwas01p.easyerp.kt.com
 
@@ -10006,13 +10952,23 @@ easyerp.kt.com
 
 npmdb02.easyerp.kt.com
 
-cai.cms.kt.com
-
 api.tbcms.kt.com
+
+cms.kt.com
 
 api.cms.kt.com
 
 tbcms.kt.com
+
+tbcp.kt.com
+
+cai.cms.kt.com
+
+cai.cp.kt.com
+
+cp.kt.com
+
+core.cp.kt.com
 
 tbccube.kt.com
 
@@ -10021,6 +10977,16 @@ api.tbccube.kt.com
 ccube.kt.com
 
 api.ccube.kt.com
+
+dlppriinfo1.kt.com
+
+dlppriinfo2.kt.com
+
+dlppolicy.kt.com
+
+dlplog.kt.com
+
+image.kt.com
 
 lyncdiscoverinternal.kt.com
 
@@ -10034,6 +11000,8 @@ admin.skype.kt.com
 
 pchat.kt.com
 
+m.skype.kt.com
+
 smartcube.kt.com
 
 smartcubediscover.kt.com
@@ -10041,6 +11009,12 @@ smartcubediscover.kt.com
 admin.smartcube.kt.com
 
 edgepool.kt.com
+
+edgepool.kt.com
+
+image.kt.co.kr
+
+a-kos.kt.com
 
 epg-dbs.dt.kt.co.kr
 
@@ -10058,6 +11032,10 @@ dev.ggniapt.dt.kt.co.kr
 
 ggniapt.dt.kt.co.kr
 
+dev.a-kos.kt.com
+
+test.a-kos.kt.com
+
 ncrabsvc.kt.com
 
 ncrabcsc.kt.com
@@ -10070,15 +11048,19 @@ test.ncrabcsc.kt.com
 
 test.ncrabonm.kt.com
 
+ibot.kt.com
+
+ibotcms.kt.co.kr
+
 admtest.aigw.kt.co.kr
+
+ermsweb.kt.com
+
+api.aigw.kt.co.kr
 
 adm.aigw.kt.co.kr
 
 apitest.aigw.kt.co.kr
-
-api.aigw.kt.co.kr
-
-ibotcms.kt.co.kr
 
 vbotcmstest.kt.co.kr
 
@@ -10096,17 +11078,49 @@ mportal.kt.co.kr
 
 sitweb.mportal.kt.co.kr
 
+bizcomm.kt.com
+
+hmg-mobile.kt.com
+
 test.bizmobile.kt.com
 
 admin.bizmobile.kt.com
 
-hybridadmin.cloud.kt.com
+enterpriselte.kt.com
+
+phishingnet.kt.co.kr
+
+ktsecuraider.kt.co.kr
+
+gcloud.kt.com
+
+ktgcloud.kt.com
+
+gov.ucloudbiz.kt.com
 
 center.ucloudbiz.kt.com
+
+hybrid.cloud.kt.com
+
+hybridadmin.cloud.kt.com
+
+ktcloud.kt.com
+
+mail.ktcloud.com
+
+cloud.kt.com
+
+ktjc.ucloudbiz.kt.com
+
+ucloudbiz.kt.com
 
 center.cloud.kt.com
 
 onm-adplatform.kt.com
+
+mgw-adplatform.kt.com
+
+adplatform.kt.com
 
 dev.spm.kt.com
 
@@ -10114,11 +11128,17 @@ qa.spm.kt.com
 
 spm.kt.com
 
+partner.spm.kt.com
+
+partner.kt.com
+
 srmdev.kt.com
 
 srmqas.kt.com
 
 srmqa.kt.com
+
+srm.kt.com
 
 srmdb01-vip.kt.com
 
@@ -10128,6 +11148,10 @@ srmdb02-vip.kt.com
 
 srmdb-scan.kt.com
 
+srmdb-scan.kt.com
+
+partner.kt.co.kr
+
 ktwasA01p.kt.com
 
 ktwasA02p.kt.com
@@ -10135,6 +11159,10 @@ ktwasA02p.kt.com
 ktwasA03p.kt.com
 
 ktwasA04p.kt.com
+
+api.biznaru.kt.com
+
+portal.biznaru.kt.com
 
 dev-portal.biznaru.kt.com
 
@@ -10149,6 +11177,8 @@ grlv01-a035.vsaas.co.kr
 grlv01-a036.vsaas.co.kr
 
 grlv01-a037.vsaas.co.kr
+
+prve.kt.com
 
 prv01.kt.com
 
@@ -10168,9 +11198,29 @@ pidicds03.kt.com
 
 pidicds04.kt.com
 
+pidicdsn04.kt.co.kr
+
+prvi.kt.co.kr
+
+prvie.kt.co.kr
+
+pidicdsn01.kt.co.kr
+
+pidicdsn02.kt.co.kr
+
+pidicdsn03.kt.co.kr
+
+first.mobile.kt.com
+
+m.isearch.kt.com
+
+gw.isearch.kt.com
+
 devris.kt.com
 
 ris.kt.com
+
+ktris.kt.com
 
 tbcrdponm.kt.com
 
@@ -10186,11 +11236,23 @@ dev.card.kt.com
 
 dev.ktcard.kt.com
 
+card.kt.com
+
+tomasonm2.kt.com
+
+tomasweb.kt.com
+
 tomaswas.kt.com
 
 tomasonm.kt.com
 
+tbtomasweb.kt.com
+
 tbtomaswas.kt.com
+
+pms.cp.kt.com
+
+pms.tbcp.kt.com
 
 pms.tbcms.kt.com
 
@@ -10200,13 +11262,31 @@ pms.ccube.kt.com
 
 pms.tbccube.kt.com
 
-pms.tbcp.kt.com
-
 t-web.scms.kt.com
+
+web.scms.kt.com
 
 t-mon.scms.kt.com
 
+mon.scms.kt.com
+
+t-appsvr.scms.kt.com
+
+appsvr.scms.kt.com
+
+web.tsm.kt.com
+
 mimo.kt.com
+
+tb.mimo.kt.com
+
+smartguard.kt.com
+
+gw.smartguard.kt.com
+
+onm.smartguard.kt.com
+
+ktacs.kt.co.kr
 
 ktacs.kt.co.kr
 
@@ -10216,6 +11296,12 @@ ktacs.kt.com
 
 epes.kt.co.kr
 
+inote.kt.com
+
+www.inote.kt.com
+
+devpro.ktds.co.kr
+
 ns.kt.co.kr
 
 ns1.kt.co.kr
@@ -10223,6 +11309,18 @@ ns1.kt.co.kr
 sn.kt.co.kr
 
 sn3.kt.co.kr
+
+osca.kt.com
+
+tb.osca.kt.com
+
+ktsecure-hub.kt.com
+
+mam.kt.com
+
+securehub.kt.com
+
+oasys.kt.com
 
 pds-gr.ipcc.kt.com
 
@@ -10232,7 +11330,11 @@ acs-gr.ipcc.kt.com
 
 acs-ca.ipcc.kt.com
 
+web.vrs.kt.com
+
 vanilla.kt.com
+
+web.vanilla.kt.com
 
 tbsmf.kt.com
 
@@ -10244,19 +11346,15 @@ sbsmf.kt.com
 
 tb.admoss.kt.com
 
-poss-web.cz-okd-prd.arsenal.kt.co.kr
-
 poss-api.cz-okd-prd.arsenal.kt.co.kr
+
+poss-web.cz-okd-prd.arsenal.kt.co.kr
 
 poss-batch.cz-okd-prd.arsenal.kt.co.kr
 
 ai-assistant-deploy.cz-okd-prd.kt.co.kr
 
 sdsc-nms.kt.co.kr
-
-cai.tbcms.kt.com
-
-cai.tbcp.kt.com
 
 acai.ccube.kt.com
 
@@ -10266,11 +11364,19 @@ cai.tbccube.kt.com
 
 cai.ccube.kt.com
 
+cai.tbcp.kt.com
+
+cai.tbcms.kt.com
+
 tb.onm.soiphds.kt.com
 
 onm.soiphds.kt.com
 
+kt-st.kt.com
+
 ktmvnodev.kt.com
+
+phishingme.kt.co.kr
 
 bicrsponm.kt.co.kr
 
@@ -10278,7 +11384,13 @@ test.bicrsponm.kt.co.kr
 
 dev.bicrsponm.kt.co.kr
 
+service.fintech.kt.com
+
+crab.kt.com
+
 tbcrab.kt.com
+
+relay.ktgis.com
 
 sbosboss.kt.com
 
@@ -10296,6 +11408,8 @@ osboss.kt.com
 
 gmsoss.kt.com
 
+hims.ktf.com
+
 hims.ktf.co.kr
 
 sit.9ii.kt.co.kr
@@ -10306,15 +11420,51 @@ sit.sla.kt.co.kr
 
 hineoss.kt.co.kr
 
+tracking.iot.kt.com
+
+g.mkate.kt.com
+
+gdev.mkate.kt.com
+
+mollehtter.kt.com
+
+mkate.kt.com
+
+minsa.kt.com
+
+mbp.kt.com
+
+dev.mkate.kt.com
+
+katemobile.kt.com
+
+mlegals.kt.com
+
+pssoonm.kt.com
+
+psso.kt.com
+
+tmonm.kt.com
+
+tb.tmonm.kt.com
+
 mtboss.kt.com
 
 mdboss.kt.com
+
+mposs.kt.com
 
 msboss.kt.com
 
 test.giftbox.kt.co.kr
 
 service.giftbox.kt.co.kr
+
+tbdrv.pass.kt.com
+
+drv.pass.kt.com
+
+mobility.gis.kt.com
 
 commail.ktfriend.com
 
@@ -10324,25 +11474,35 @@ test.campaign.cams.kt.com
 
 test.fmanager.cams.kt.com
 
+bwpdb01-vip.kt.com
+
+bwpdb02-vip.kt.com
+
+bwpdb-scan.kt.com
+
 bwddb01-vip.kt.com
 
 bwddb02-vip.kt.com
 
 bwddb-scan.kt.com
 
+bwddb-scan.kt.com
+
+bwpap01p.kt.com
+
+bwpci01.kt.com
+
+bwpci02.kt.com
+
 bwpdb01.kt.com
 
 bwpdb02.kt.com
 
+bwpprd.kt.com
+
 bwddev.kt.com
 
 bwqqas.kt.com
-
-bwpdb01-vip.kt.com
-
-bwpdb02-vip.kt.com
-
-bwpdb-scan.kt.com
 
 lamp.kt.co.kr
 
@@ -10350,7 +11510,13 @@ tb.lamp.kt.co.kr
 
 intra.iotmakers.kt.com
 
+biz.iotmakers.kt.com
+
+bizservice.iotmakers.kt.com
+
 coresdn.kt.co.kr
+
+5gnms.kt.co.kr
 
 nifi.5g.kt.co.kr
 
@@ -10360,21 +11526,29 @@ trnbsblfw-nbss.kt.com
 
 esbb2b-nbss.kt.com
 
+idc.kt.com
+
 bsblfw-nbss.kt.com
 
 uatbsblfw-nbss.kt.com
 
 sit2esbb2b.kt.com
 
+eformtr.kt.com
+
+value.kt.com
+
 value1.kt.com
 
-cash.megatvdnp.co.kr
+valuedev.kt.com
 
 oreo.megatvdnp.co.kr
 
 oatmeal.megatvdnp.co.kr
 
 cocoball.megatvdnp.co.kr
+
+cash.megatvdnp.co.kr
 
 e2e.5gopera.kt.co.kr
 
@@ -10384,11 +11558,25 @@ tb.5gopera.kt.co.kr
 
 pppprd.kt.com
 
+pppap01p.kt.com
+
+pppap02p.kt.com
+
+pppap03p.kt.com
+
+pppap04p.kt.com
+
+pppdb01.kt.com
+
+pppdb02.kt.com
+
 ppqqas.kt.com
 
 ppddev.kt.com
 
 govadm.cloud.kt.com
+
+olleh.kr
 
 eimsap1.kt.com
 
@@ -10400,11 +11588,47 @@ kteims.kt.com
 
 kteimsdev.kt.com
 
+ktgem.kt.co.kr
+
 ktgembo.kt.co.kr
+
+p-gem-pd1-w01.ktgem.kt.co.kr
+
+p-gem-pd1-w02.ktgem.kt.co.kr
+
+amas.kt.co.kr
+
+ktmegtocdev.kt.com
+
+ktmegdev.kt.com
 
 api.ktmeg.kt.co.kr
 
-imdgtb.ktmeg.kt.com
+ktmegapi.kt.com
+
+gigaenergy.kt.com
+
+dev.ktmeg.kt.com
+
+ktmegtoc.kt.com
+
+ktmeg.kt.com
+
+gigaenergy.kt.com
+
+ktmegapi.kt.com
+
+ec.ktmeg.kt.com
+
+dev.gigaenergy.kt.com
+
+tb.gigaenergy.kt.com
+
+tb.ktmegapi.kt.com
+
+tb.ktmeg.kt.com
+
+tb.ktmegtoc.kt.com
 
 tb.plusktmegapi.kt.com
 
@@ -10416,25 +11640,53 @@ tb.plusktmeg.kt.com
 
 dev.plusktmeg.kt.com
 
+imdgtb.ktmeg.kt.com
+
 bilsl20.kt.co.kr
 
 bilns20.kt.co.kr
 
-nbaseqa.kt.com
+admin.nbaseqa.kt.co.kr
 
 barcode.kt.com
+
+snbase.kt.com
+
+erpbarcode.kt.com
 
 admin.barcode.kt.co.kr
 
 admin.nbasedev.kt.co.kr
 
+nbasedev.kt.com
+
+nbaseqa.kt.com
+
+erpbarcodepda.kt.com
+
+merp.kt.com
+
 barcode.kt.co.kr
+
+ringo.kt.com
+
+selfringo.kt.com
 
 dev.signet.kt.com
 
 ap-signet.kt.com
 
+tcmsg.kt.com
+
+timecodi.kt.com
+
+giga.vrs.kt.com
+
+poc.dt.kt.com
+
 in.dt.kt.com
+
+pay.dt.kt.com
 
 dev.dt.kt.com
 
@@ -10444,13 +11696,17 @@ dev.dt.kt.co.kr
 
 cms.dt.kt.co.kr
 
-poc.dt.kt.com
+dt.kt.co.kr
 
 cms-dev.dt.kt.co.kr
 
 drm-test.kt.com
 
 auth-test.kt.com
+
+drmauth.kt.com
+
+drm.kt.com
 
 vr-gr.ipcc.kt.com
 
@@ -10474,9 +11730,11 @@ wfms.ipcc.kt.com
 
 wfms-ars.ipcc.kt.com
 
-dev.pdfbill.kt.com
-
 billimg.ktf.com
+
+pdfbill.kt.com
+
+dev.pdfbill.kt.com
 
 apqqas.kt.com
 
@@ -10490,17 +11748,39 @@ appci01.kt.com
 
 appci02.kt.com
 
+appdb01.kt.com
+
+appdb01-vip.kt.com
+
+appdb02.kt.com
+
+appdb02-vip.kt.com
+
+appdb-scan.kt.com
+
+appdb-scan.kt.com
+
 appprd.kt.com
 
 atcgeo.kt.co.kr
 
 now.kt.co.kr
 
+ktnow.kt.co.kr
+
+dev.ktnow.kt.co.kr
+
+mnow.kt.co.kr
+
+dev.mnow.kt.co.kr
+
 allinosp.kt.co.kr
 
 dev.now.kt.co.kr
 
 myroute.kt.co.kr
+
+pams.kt.co.kr
 
 dev.pams.kt.co.kr
 
@@ -10510,7 +11790,13 @@ silkbd.kt.co.kr
 
 silkdr.kt.co.kr
 
+silkbd.kt.co.kr
+
+silkdr.kt.co.kr
+
 test.silk.kt.co.kr
+
+b2bcare.kt.co.kr
 
 api.aib.kt.co.kr
 
@@ -10522,11 +11808,17 @@ test.b2bcare.kt.co.kr
 
 test.aib.kt.co.kr
 
+allinbiz.kt.com
+
 press.kt.com
 
 newsadmin.kt.com
 
 newsadmin.kt.co.kr
+
+newsfile.kt.co.kr
+
+mkbn.kt.com
 
 news.kt.co.kr
 
@@ -10536,7 +11828,11 @@ test.pvs.kt.com
 
 pvs.kt.com
 
+kbnstream.kt.co.kr
+
 icrm.nb-iot.kt.com
+
+igate.bss-iot.kt.com
 
 iprov.nb-iot.kt.com
 
@@ -10556,6 +11852,10 @@ gtmsdev.kt.co.kr
 
 bizmate.kt.com
 
+m.bizmate.kt.com
+
+m.devbizmate.kt.com
+
 core.cms.kt.com
 
 core.tbcms.kt.com
@@ -10564,29 +11864,89 @@ core.ccube.kt.com
 
 core.tbccube.kt.com
 
+core.tbcp.kt.com
+
+stthaproxy01.bizmate.kt.com
+
+stthaproxydev01.devbizmate.kt.com
+
+hwhaproxy01.bizmate.kt.com
+
+stthaproxyvip.bizmate.kt.com
+
+stthaproxy02.bizmate.kt.com
+
 faceqas.kt.com
+
+face.kt.com
+
+facedb01-vip.kt.com
+
+facedb-scan.kt.com
+
+facedb-scan.kt.com
+
+allinhome.kt.com
+
+obgw.kt.co.kr
+
+epccomm.ktbcp.kt.co.kr
+
+epcreg.ktbcp.kt.co.kr
+
+manager.tbktbcp.kt.co.kr
+
+bcapi.tbktbcp.kt.co.kr
 
 comm.ktbcp.kt.co.kr
 
 reg.ktbcp.kt.co.kr
 
-epcreg.ktbcp.kt.co.kr
+manager.ktbcp.kt.co.kr
 
 bcpadminui.ktbcp.kt.co.kr
 
+obgw2.kt.co.kr
+
+anchor.ktbcp.kt.co.kr
+
+epcmanager.ktbcp.kt.co.kr
+
+epcstat.ktbcp.kt.co.kr
+
 tns.apigw.kt.co.kr
+
+tns.appgw.kt.co.kr
+
+tnstb.appgw.kt.co.kr
 
 tnstb.apigw.kt.co.kr
 
+ancgw.ktbcp.kt.co.kr
+
 ancgwtb.ktbcp.kt.co.kr
 
-ancgw.ktbcp.kt.co.kr
+emo.gigaenergy.kt.com
+
+emo-ec.gigaenergy.kt.com
+
+test.emo-ec.gigaenergy.kt.com
 
 tb.emo.gigaenergy.kt.com
 
+enterprise.kt.com
+
+ktedu.kt.com
+
+cont.ktedu.kt.com
+
 devlms.ktedu.kt.com
 
+lms.ktedu.kt.com
+
 dev.ktedu.kt.com
+
+ktedu.kt.co.kr
 
 devnetis.kt.co.kr
 
@@ -10608,9 +11968,13 @@ ktconpay.com
 
 test.rcm.kt.co.kr
 
+ktdcb.kt.co.kr
+
 tb.rcm.kt.com
 
 pd.rcm.kt.com
+
+ebrain.kt.com
 
 dev.ebrain.kt.com
 
@@ -10620,7 +11984,13 @@ tb.ebrain.kt.com
 
 tb.api.ebrain.kt.com
 
+api.ebrain.kt.com
+
 mapi.ktipmedia.co.kr
+
+ktnms.kt.com
+
+moss.kt.com
 
 test.speechrecog.ktipmedia.co.kr
 
@@ -10634,9 +12004,13 @@ crms.ktf.com
 
 admin.vpn.kt.com
 
+vpnpms.kt.co.kr
+
 dev.vpnpms.kt.co.kr
 
 gbas.onm.kt.com
+
+response.iotmail.kt.com
 
 api.iotmail.kt.com
 
@@ -10666,7 +12040,27 @@ if1.bss-iot.kt.com
 
 if2.bss-iot.kt.com
 
+webv1.bss-iot.kt.com
+
+mvnords.kt.com
+
 dev.mvnords.kt.com
+
+dev.mvnords.kt.com
+
+openapi.spam.kt.com
+
+admin.spam.kt.com
+
+spamfilter.mobile.kt.com
+
+m.spam.kt.com
+
+fidosdk.ibaf.kt.com
+
+tbfidosdk.ibaf.kt.com
+
+onm.ibaf.kt.com
 
 dev.k-kos.kt.co.kr
 
@@ -10675,6 +12069,14 @@ test.k-kos.kt.co.kr
 k-kos.kt.co.kr
 
 kmos.kt.co.kr
+
+membership.biz.kt.com
+
+m.membership.biz.kt.com
+
+showme.mobile.kt.com
+
+m.showme.kt.com
 
 showmecms.kt.co.kr
 
@@ -10686,7 +12088,13 @@ sitbillfw.kt.com
 
 push-nbss.kt.com
 
+test.ccaro2o.kt.co.kr
+
+ccaro2o.kt.co.kr
+
 anyfax.kt.co.kr
+
+onm.eagle.kt.co.kr
 
 eagleeye.kt.co.kr
 
@@ -10696,11 +12104,47 @@ ramstb.kt.com
 
 api.devvoicerec.kt.com
 
+api.voicerec.kt.com
+
+ktinfra.hiot.kt.com
+
+cms.hiot.kt.com
+
+dev-ktinfra.hiot.kt.com
+
+tnsdev.appgw.kt.co.kr
+
 dev.gigastealth.kt.co.kr
 
 tnsdev.apigw.kt.co.kr
 
+admin.gigastealth.kt.co.kr
+
+test.adminstealth.kt.co.kr
+
+gigastealth.kt.co.kr
+
+proxy.gigastealth.kt.co.kr
+
+mq.gigastealth.kt.co.kr
+
+test.gigastealth.kt.co.kr
+
+test.proxystealth.kt.co.kr
+
+test.mqstealth.kt.co.kr
+
 cdbi.inomp.kt.com
+
+bis.kt.co.kr
+
+dev.localvoucher.kt.co.kr
+
+adm.localvoucher.kt.co.kr
+
+ktvdi.kt.com
+
+imsivdi.kt.com
 
 rdpap01p.kt.com
 
@@ -10712,6 +12156,18 @@ eppap05p.kt.com
 
 eppap06p.kt.com
 
+eppap01p.kt.com
+
+eppap02p.kt.com
+
+eppap03p.kt.com
+
+eppap04p.kt.com
+
+eppci01.kt.com
+
+eppci02.kt.com
+
 eppdb01.kt.com
 
 eppdb01-vip.kt.com
@@ -10721,6 +12177,10 @@ eppdb02.kt.com
 eppdb02-vip.kt.com
 
 eppdb-scan.kt.com
+
+eppdb-scan.kt.com
+
+eppprd.kt.com
 
 epddev.kt.com
 
@@ -10742,9 +12202,29 @@ tbgpayapp.kt.co.kr
 
 gpayapp.kt.co.kr
 
+gpay.kt.co.kr
+
+ktgc.kt.co.kr
+
+showmovie.mobile.kt.com
+
 idms.kt.com
 
 idmsstg.kt.com
+
+nccwas.cc.kt.com
+
+nccdev.cc.kt.com
+
+ccdps.cc.kt.com
+
+ccwas.cc.kt.com
+
+nccdars.cc.kt.com
+
+nccdps.cc.kt.com
+
+map.gis.kt.com
 
 signal.kt.co.kr
 
@@ -10759,6 +12239,8 @@ tbktadmin.mars.kt.com
 ktadmin.mars.kt.com
 
 admin.mars.kt.com
+
+cspprd.kt.com
 
 bopprd.kt.com
 
@@ -10784,7 +12266,13 @@ bopdb01.kt.com
 
 bopdb02.kt.com
 
+facedev.kt.com
+
 facewas02p.kt.com
+
+grpdb01.kt.com
+
+PPAKAP.kt.com
 
 sopdb01.kt.com
 
@@ -10798,8 +12286,6 @@ cspdb01.kt.com
 
 cspdb02.kt.com
 
-cspprd.kt.com
-
 erpbo.kt.com
 
 pubnms.allup.co.kr
@@ -10812,9 +12298,17 @@ prvtrap.allup.co.kr
 
 clipcardadmin.kt.co.kr
 
+rc.kt.co.kr
+
+rc.kt.co.kr
+
+*.hcps11-1.kt.co.kr
+
 *.hcps11-1.kt.co.kr
 
 dev.bidw.kt.com
+
+bidw.kt.com
 
 hgis.kt.co.kr
 
@@ -10822,15 +12316,25 @@ bidwbot.kt.co.kr
 
 argos.kt.com
 
+api.ktivi.kt.com
+
 bilns30.kt.co.kr
 
 bilsl30.kt.co.kr
+
+cleaniplus.phonesrv.kt.com
 
 wpsonm.kt.co.kr
 
 wpsonmdr.kt.co.kr
 
+web.gghotel.kt.com
+
+api.gghotel.kt.com
+
 secure.internet.kt.com
+
+vring2u.kt.com
 
 dev.online.kt.com
 
@@ -10840,9 +12344,19 @@ groupidms.kt.com
 
 goasys.kt.com
 
+bigsight.kt.com
+
 bigsightadm.kt.com
 
 vos.kt.com
+
+freesam.kt.com
+
+kids.kt.com
+
+slp.kt.com
+
+e-slp.kt.com
 
 uatbillfw-nbss.kt.com
 
@@ -10850,13 +12364,51 @@ prd2billfw-nbss.kt.com
 
 partners.groupmail.kt.co.kr
 
+spaceapidev.ktds.co.kr
+
 fms.ktmns.com
 
 fmsdev.ktmns.com
 
+spaceapi.ktds.co.kr
+
+groupmail.kt.co.kr
+
 dev.groupmail.kt.co.kr
 
+worksdev.ktds.co.kr
+
+adm.healthcare.kt.co.kr
+
+api.healthcare.kt.co.kr
+
+healthcare.kt.co.kr
+
 b2c.nbss.kt.com
+
+worksappdev.ktds.co.kr
+
+officedev.ktds.co.kr
+
+drivedev.ktds.co.kr
+
+spacedev.ktds.co.kr
+
+worksapp.ktds.co.kr
+
+office.ktds.co.kr
+
+drive.ktds.co.kr
+
+space.ktds.co.kr
+
+works.ktds.co.kr
+
+cert.kt.com
+
+pds.letskt.com
+
+pds.kt.com
 
 mvp.ccube.kt.com
 
@@ -10864,15 +12416,29 @@ mvp.tbccube.kt.com
 
 mvp.devccube.kt.com
 
+test-ses2.ktvsaas.co.kr
+
+test-gwec2.ktvsaas.co.kr
+
+test-ses.ktvsaas.co.kr
+
+test-gwec.ktvsaas.co.kr
+
+test-dms.ktvsaas.co.kr
+
 abita.kt.com
+
+smartdr.kt.com
+
+gigaeyes-ems.kt.co.kr
 
 star.kt.com
 
 ktisfmc.kt.co.kr
 
-gigaeyes-ems.kt.co.kr
-
 kosmobile.thunderpost.net
+
+supl.kt.co.kr
 
 ktfoss.ktf.com
 
@@ -10880,23 +12446,53 @@ itms.kt.com
 
 dev.itms.kt.com
 
+bdp.kt.co.kr
+
+ureca.bdp.kt.co.kr
+
+cms.bdp.kt.co.kr
+
+acexec.bdp.kt.co.kr
+
+acauth.bdp.kt.co.kr
+
+acapi.bdp.kt.co.kr
+
 acrepo.bdp.kt.co.kr
+
+acplatform.bdp.kt.co.kr
 
 sharc.kt.com
 
-bdap.kt.com
-
 a-vsm.kt.com
+
+bdap.kt.com
 
 cms.ybox.kt.co.kr
 
+ybox.kt.com
+
+dev.ybox.kt.com
+
 nara1.kt.co.kr
 
+csappwc.kt.com
+
+admin.coupon.kt.com
+
+globalshop.kt.com
+
 aitsla.kt.co.kr
+
+sla.kt.co.kr
 
 m-fm.sitneoss.kt.com
 
 admnm.kt.com
+
+api.mobility.kt.com
+
+daes.kt.com
 
 biz-recording.kt.com
 
@@ -10908,6 +12504,10 @@ dev.familyboxcms.kt.co.kr
 
 dev.jirabox.kt.co.kr
 
+familybox-api.kt.com
+
+familybox.kt.com
+
 ciir.kt.com
 
 flypds.kt.com
@@ -10915,6 +12515,20 @@ flypds.kt.com
 designtalk.kt.com
 
 designtalk.kt.co.kr
+
+support.kt.com
+
+www.digieco.co.kr
+
+m.digieco.co.kr
+
+thundermail.digieco.co.kr
+
+gns.kt.com
+
+freezone.kt.com
+
+fzmn.kt.com
 
 ov.NeOSS.kt.com
 
@@ -10924,7 +12538,13 @@ ait.m-ov.neoss.kt.com
 
 sit.m-ov.neoss.kt.com
 
+m-ov.neoss.kt.com
+
+api.kt.co.kr
+
 apimanager.kt.co.kr
+
+apilink.kt.co.kr
 
 openapiadmin.kt.com
 
@@ -10976,15 +12596,19 @@ aidupc.kt.co.kr
 
 dev.aidu.kt.co.kr
 
-auduez.kt.co.kr
-
 aiduez.kt.co.kr
+
+auduez.kt.co.kr
 
 catms.kt.co.kr
 
 dev.catms.kt.co.kr
 
 itam.kt.com
+
+api.itptn.kt.co.kr
+
+itpartner.kt.co.kr
 
 groupmaadm.kt.com
 
@@ -11028,9 +12652,13 @@ sldm.kt.com
 
 maadt.kt.com
 
+ma.kt.com
+
 maadm.kt.com
 
 gms.kt.co.kr
+
+gts.kt.co.kr
 
 in.ipvcon.kt.com
 
@@ -11038,25 +12666,71 @@ room.ipvcon.kt.com
 
 eoa.kt.com
 
+ins.insuretech.kt.com
+
+test.insuretech.kt.com
+
 admin.airmap.kt.com
+
+biz.airmap.kt.com
+
+iot.airmapkorea.kt.com
+
+vcon.kt.com
+
+mvcon.kt.com
 
 socportal.kt.co.kr
 
 smp.kt.com
 
-brokeringimgbmt.ktipmedia.co.kr
+securecoding.kt.co.kr
 
-bmtmanage.bom.kt.com
+bmtchat.bom.kt.com
 
-manage.bom.kt.com
+bmtmblapi.bom.kt.com
+
+mapi.bom.kt.com
 
 manage1.bom.kt.com
 
 manage2.bom.kt.com
 
+img.bom.kt.com
+
+agent.bom.kt.com
+
+openapi.bom.kt.com
+
+bmt.bom.kt.com
+
+bmtcms.bom.kt.com
+
+bmtagent.bom.kt.com
+
+bmtopenapi.bom.kt.com
+
+bmtmapi.bom.kt.com
+
+brokeringimgbmt.ktipmedia.co.kr
+
+bmtmanage.bom.kt.com
+
+cms.bom.kt.com
+
+manage.bom.kt.com
+
+mimg.bom.kt.com
+
+chat.bom.kt.com
+
+mblapi.bom.kt.com
+
 comos.kt.com
 
 bizrecoo.kt.co.kr
+
+sdpismweb.kt.com
 
 ktipms.kt.co.kr
 
@@ -11065,6 +12739,16 @@ ipms.kt.co.kr
 fair.kt.co.kr
 
 fair-dev.kt.co.kr
+
+tims-api.bigsight.kt.com
+
+tims-cc.bigsight.kt.com
+
+marketing.kt.co.kr
+
+tims.bigsight.kt.com
+
+tims-mkt.bigsight.kt.com
 
 atims-api.bigsight.kt.com
 
@@ -11082,9 +12766,13 @@ tbktistrade.gigaenergy.kt.com
 
 tbtradeapi.gigaenergy.kt.com
 
+trade.gigaenergy.kt.com
+
 tb.tradeonm.kt.com
 
 dev.tradeonm.kt.com
+
+tbtrade.gigaenergy.kt.com
 
 CODECICD.kt.co.kr
 
@@ -11094,9 +12782,21 @@ CodeEyes.kt.co.kr
 
 cockpit.kt.com
 
+ktlifeplan.com
+
+www.ktlifeplan.com
+
+recruit.ktlifeplan.com
+
+career.ktlifeplan.com
+
+cuin.ktlifeplan.com
+
 bonm.kt.com
 
 ktdms.kt.com
+
+say.kt.com
 
 app.membership.kt.com
 
@@ -11106,6 +12806,8 @@ cms.membership.kt.com
 
 it.kt.co.kr
 
+hive.kt.co.kr
+
 minitab.kt.co.kr
 
 globaldev.kt.com
@@ -11114,31 +12816,43 @@ hive.kt.com
 
 hivedev.kt.com
 
-hive.kt.co.kr
-
 fas.kt.com
 
 accesssdn.kt.com
+
+gbox.api.kt.co.kr
+
+wap.gbox.kt.com
+
+egw.gbox.kt.com
+
+svc.gbox.kt.com
+
+stg.gbox.kt.com
 
 repo.gbox.kt.co.kr
 
 mgmt.gbox.kt.co.kr
 
-gbox.api.kt.co.kr
+gbox.srvapp.kt.com
 
 isovdi.kt.com
+
+tacs.kt.com
 
 dev-ec.smartfactory.kt.co.kr
 
 ap.smartfactory.kt.co.kr
 
+smartfactory.kt.co.kr
+
 tb.smartfactory.kt.co.kr
 
 dev.smartfactory.kt.co.kr
 
-tb.cubot.kt.co.kr
+ec.smartfactory.kt.co.kr
 
-dev2.infrabot.kt.co.kr
+tb.cubot.kt.co.kr
 
 dev2mq.infrabot.kt.co.kr
 
@@ -11150,11 +12864,41 @@ devmq.infrabot.kt.co.kr
 
 mq.infrabot.kt.co.kr
 
+tb.cubot.kt.co.kr
+
+dev2.infrabot.kt.co.kr
+
+cubot.kt.co.kr
+
 infrabot.kt.co.kr
 
 dev.infrabot.kt.co.kr
 
+cubot.kt.co.kr
+
 ipc.kt.com
+
+chelsea.kt.co.kr
+
+wiki.chelsea.kt.co.kr
+
+repo.chelsea.kt.co.kr
+
+ktdn.chelsea.kt.co.kr
+
+codeanlys.chelsea.kt.co.kr
+
+deploy.chelsea.kt.co.kr
+
+issue.chelsea.kt.co.kr
+
+build.chelsea.kt.co.kr
+
+scm.chelsea.kt.co.kr
+
+chat.chelsea.kt.co.kr
+
+codereview.chelsea.kt.co.kr
 
 dcim.kt.com
 
@@ -11174,7 +12918,17 @@ kcampus.kt.com
 
 kcampusdev.kt.com
 
+ci.kt.com
+
+ci.kt.co.kr
+
 volunteer.kt.com
+
+wsgadd.kt.com
+
+m.otpmono.kt.com
+
+n.otpmono.kt.com
 
 aiassist.kt.co.kr
 
@@ -11198,15 +12952,15 @@ rnd.kt.co.kr
 
 icms.kt.co.kr
 
+msens.kt.com
+
 gvital.kt.com
 
 vital.kt.com
 
-msens.kt.com
-
 boan.kt.com
 
-api.etcsmartfarm.kt.co.kr
+lost.mobile.kt.com
 
 sfarm.kt.co.kr
 
@@ -11230,9 +12984,23 @@ oauth.devsmartfarm.kt.co.kr
 
 vms.devsmartfarm.kt.co.kr
 
-storageos.kt.co.kr
+apivpnsmartfarm.kt.co.kr
+
+api.etcsmartfarm.kt.co.kr
+
+smartfarm.kt.co.kr
+
+oauthsmartfarm.kt.co.kr
+
+apismartfarm.kt.co.kr
+
+vmssmartfarm.kt.co.kr
 
 mgmt.storageos.co.kr
+
+storageos2.kt.co.kr
+
+storageos.kt.co.kr
 
 pprms.kt.com
 
@@ -11248,9 +13016,9 @@ dev.dataplus.kt.co.kr
 
 e-coms.kt.co.kr
 
-webshell.kt.com
-
 bpdev.kt.com
+
+webshell.kt.com
 
 eojt.kt.com
 
@@ -11268,6 +13036,8 @@ dashboard.kt.co.kr
 
 prism.kt.com
 
+dams.kt.com
+
 dev.dams.kt.com
 
 admin.dams.kt.com
@@ -11276,15 +13046,25 @@ devadmin.dams.kt.com
 
 tax.kt.com
 
+mrms.kt.com
+
+dms.kt.co.kr
+
 nms.allup.co.kr
 
 trap.allup.co.kr
+
+iotmakers.kt.com
 
 chita.kt.co.kr
 
 dev.cass.kt.com
 
+cass.wm.kt.com
+
 pcmifqas.kt.com
+
+pcmif.kt.com
 
 pcmifdev.kt.com
 
@@ -11298,9 +13078,13 @@ ticesqa.kt.com
 
 ticesdev.kt.com
 
+tices.kt.com
+
 tices.prd.kt.com
 
 tices.dev.kt.com
+
+recruit.kt.com
 
 registry-accordion.c01-acd.bz.paas.kt.co.kr
 
@@ -11316,9 +13100,37 @@ ktis-console.c01-acd.bz.paas.kt.co.kr
 
 genio.kt.co.kr
 
+api.gbcp.kt.com
+
+testapi.gbcp.kt.com
+
+gbox.gbcp.kt.com
+
 biziot.kt.co.kr
 
 iotsupport.admin.kt.co.kr
+
+iotsupport.kt.com
+
+paperless.kt.com
+
+paperless.bizmeka.com
+
+gsm.kt.co.kr
+
+dums.kt.co.kr
+
+ums.kt.co.kr
+
+cugmapi.kt.com
+
+cugcms.kt.com
+
+cugcmsapi.kt.com
+
+cugenc.kt.com
+
+cugtvapi.kt.com
 
 cis.kornet.net
 
@@ -11328,6 +13140,8 @@ test.k-scs.kt.co.kr
 
 k-scs.kt.co.kr
 
+ktrpa.kt.co.kr
+
 antbotforum.ktds.co.kr
 
 antbotauth.ktds.co.kr
@@ -11335,6 +13149,8 @@ antbotauth.ktds.co.kr
 antbotmanager.ktds.co.kr
 
 antbot.ktds.co.kr
+
+antbotforum.ktds.co.kr
 
 jean.kt.com
 
@@ -11346,19 +13162,73 @@ cb.cloud.kt.com
 
 apicb.cloud.kt.com
 
+api.gglodge.kt.com
+
+web.gglodge.kt.com
+
+kidsafe.kt.com
+
+m.kidsafe.kt.com
+
 api.iotstamp.kt.co.kr
 
 ktsmarkerweb.kt.co.kr
 
+api.ktsmarkeriot.kt.co.kr
+
 secure.opms.kt.co.kr
 
+farm.opp.kt.com
+
+pm.opp.kt.com
+
+wiki.opp.kt.com
+
 wiki.kt.com
+
+pcsecurity2.kt.com
+
+pcsecurity.kt.com
+
+pcsecurity-ap.kt.com
+
+pcsecurity-fs.kt.com
+
+ems.kt.com
+
+ems.kt.com
 
 bschist.kt.com
 
 padosori.kt.co.kr
 
+bs.csms.kt.com
+
+bussales.kt.com
+
+locationguard.kt.com
+
+m.locationguard.kt.com
+
+admin.locationguard.kt.com
+
+kb.csms.kt.com
+
+sn.csms.kt.com
+
+in.csms.kt.com
+
+kn.csms.kt.com
+
+hn.csms.kt.com
+
+enode.kt.co.kr
+
 esm.kt.co.kr
+
+1390.kt.com
+
+131.kt.co.kr
 
 prd.picm.kt.co.kr
 
@@ -11370,11 +13240,17 @@ itjira1.kt.co.kr
 
 wifiutmadmin.kt.co.kr
 
+gwsdemo.gigasecure.kt.com
+
+api.wifiutmadmin.kt.co.kr
+
+m.supervr.kt.com
+
+tb.imp.kt.com
+
 imws.omega-bo.co.kr
 
 imbs.omega-bo.co.kr
-
-tb.imp.kt.com
 
 spamspider.kt.co.kr
 
@@ -11390,33 +13266,75 @@ test.onmktmeg.kt.com
 
 onm.ktmeg.kt.com
 
+001app.kt.com
+
 admin001app.kt.com
 
 sv.workdev.kt.com
 
+gc.kt.co.kr
+
 ollehguardadm.kt.com
+
+ktguard.kt.com
 
 rmos.kt.co.kr
 
+m-innertel.kt.com
+
+video-conf.kt.com
+
 devops.kt.co.kr
 
+nexus.kt.co.kr
+
+swdevhub.kt.co.kr
+
+ktwas.kt.com
+
+www2.ktwas.kt.com
+
+nqi.kt.com
+
 biz.homeiot.kt.com
+
+react.hiot.kt.com
+
+mpay.kt.co.kr
+
+mpayonm.kt.co.kr
+
+jalnagageadm.kt.co.kr
 
 testjalnagageadm.kt.co.kr
 
 testjalnagage.kt.co.kr
 
+jalnagage.kt.co.kr
+
+clean.internet.kt.com
+
+cleani.kt.com
+
 cleani.internet.kt.com
-
-otmprs.kt.com
-
-otmp.kt.com
 
 tb.vams.kt.com
 
 prod.vams.kt.com
 
+otmprs.kt.com
+
+otmp.kt.com
+
+ktip.kt.com
+
+m-ems.kt.co.kr
+
 dev.bizshop.kt.com
+
+shop.biz.kt.com
+
+dev.test.kttalk.net
 
 *.cz-okd-dev.arsenal.kt.co.kr
 
@@ -11430,11 +13348,23 @@ yz.arsenal.kt.co.kr
 
 bz.arsenal.kt.co.kr
 
+romas.gghotel.kt.com
+
+api.tvssok.kt.com
+
+web.tvssok.kt.com
+
 twonumweb.kt.com
+
+twonumwas.kt.com
+
+ip-pbx.kt.com
 
 compliance.kt.co.kr
 
 dev.compliance.kt.co.kr
+
+info.airmapkorea.kt.com
 
 gbhub.kt.co.kr
 
@@ -11442,11 +13372,15 @@ mcodegw.kt.com
 
 secureip.kt.com
 
+techcare.kt.co.kr
+
 dev.tims.kt.com
 
 qa.tims.kt.com
 
 prd.tims.kt.com
+
+bizfarm.kt.co.kr
 
 dev.bizfarm.kt.com
 
@@ -11454,9 +13388,19 @@ qa.bizfarm.kt.com
 
 prd.bizfarm.kt.com
 
+tb.pairing.kt.com
+
+app.bizmobile.kt.com
+
+otninf.allad.kt.com
+
 drmagency.kt.com
 
 miracle.kt.com
+
+msbc.kt.com
+
+m2mcs.kt.com
 
 tn.kt.co.kr
 
@@ -11464,21 +13408,35 @@ tnas.kt.co.kr
 
 tsdn.kt.com
 
+page.hpp.kt.com
+
 wes.kt.co.kr
 
 neoss-ne.kt.co.kr
+
+ne.kt.co.kr
 
 ppms.kt.co.kr
 
 hfit.kt.com
 
+bizcollabo.kt.co.kr
+
 stg.bizcollabo.kt.co.kr
 
 app.bizcollabo.kt.co.kr
 
-bizcollabo.kt.co.kr
+keycloak-kt-c1-env-dev.c1.kt.com
+
+c1-dashboard-service-kt-c1-env-dev.c1.kt.com
+
+kt-c1-env-dev.c1.kt.com
+
+amd-apigw-stack-service-kt-c1-env-dev.c1.kt.com
 
 rt.allinhome.kt.com
+
+update.q3.kt.com
 
 netwindow.ktf.com
 
@@ -11488,9 +13446,9 @@ pctime.kt.co.kr
 
 boan.kt-idc.com
 
-pentest.kt.com
+ccbc.test.kt.co.kr
 
-ospia.kt.com
+pentest.kt.com
 
 ospia.kt.co.kr
 
@@ -11502,6 +13460,12 @@ ospiadb.kt.co.kr
 
 ims.kt.co.kr
 
+mobileospia.kt.com
+
+catqr.kt.co.kr
+
+ospia.kt.com
+
 isctalk.kt.co.kr
 
 isc.kt.co.kr
@@ -11509,6 +13473,10 @@ isc.kt.co.kr
 biztech.kt.co.kr
 
 bt.kt.co.kr
+
+ism.kt.co.kr
+
+ism.kt.co.kr
 
 aone.kt.co.kr
 
@@ -11534,7 +13502,147 @@ vipcomdev.kt.com
 
 loyaltydev.kt.com
 
+sdm.kt.co.kr
+
 ip.kt.com
+
+songpa2.m-notice.kt.com
+
+cheongju2.m-notice.kt.com
+
+anyang2.m-notice.kt.com
+
+daegu2.m-notice.kt.com
+
+jeonju.m-notice.kt.com
+
+haengdang2.m-notice.kt.com
+
+dongmasan.m-notice.kt.com
+
+uijeongbu.m-notice.kt.com
+
+donghae.m-notice.kt.com
+
+dunsan.m-notice.kt.com
+
+moran.m-notice.kt.com
+
+busanjin.m-notice.kt.com
+
+bucheon1.m-notice.kt.com
+
+bukgwangju.m-notice.kt.com
+
+bukdaegu.m-notice.kt.com
+
+bukbusan.m-notice.kt.com
+
+soonchun.m-notice.kt.com
+
+jeonju2.m-notice.kt.com
+
+gwangju.m-notice.kt.com
+
+busan.m-notice.kt.com
+
+andong.m-notice.kt.com
+
+sokcho.m-notice.kt.com
+
+songpa.m-notice.kt.com
+
+sunae.m-notice.kt.com
+
+suwon1.m-notice.kt.com
+
+suwon2.m-notice.kt.com
+
+jeju.m-notice.kt.com
+
+sinchon1.m-notice.kt.com
+
+sinchon2.m-notice.kt.com
+
+ansan1.m-notice.kt.com
+
+ansan2.m-notice.kt.com
+
+anyang.m-notice.kt.com
+
+yangjae1.m-notice.kt.com
+
+yangjae2.m-notice.kt.com
+
+yangjae3.m-notice.kt.com
+
+yangjae4.m-notice.kt.com
+
+ulsan.m-notice.kt.com
+
+wonju.m-notice.kt.com
+
+iksan.m-notice.kt.com
+
+ilsan.m-notice.kt.com
+
+dongnae.m-notice.kt.com
+
+gangneung.m-notice.kt.com
+
+gangbuk.m-notice.kt.com
+
+gangseo.m-notice.kt.com
+
+geoje.m-notice.kt.com
+
+gumdan.m-notice.kt.com
+
+guro1.m-notice.kt.com
+
+guro2.m-notice.kt.com
+
+guri.m-notice.kt.com
+
+gumi.m-notice.kt.com
+
+gimhae.m-notice.kt.com
+
+namdaegu.m-notice.kt.com
+
+namsuwon.m-notice.kt.com
+
+namincheon.m-notice.kt.com
+
+namcheonan.m-notice.kt.com
+
+cheongju.m-notice.kt.com
+
+daejeon.m-notice.kt.com
+
+daegu.m-notice.kt.com
+
+chuncheon.m-notice.kt.com
+
+chungju.m-notice.kt.com
+
+pyeongtaek.m-notice.kt.com
+
+pohang.m-notice.kt.com
+
+hadang.m-notice.kt.com
+
+haengdang.m-notice.kt.com
+
+hyehwa1.m-notice.kt.com
+
+hyehwa2.m-notice.kt.com
+
+hongseong.m-notice.kt.com
+
+jinju.m-notice.kt.com
+
+busan2.m-notice.kt.com
 
 brainhub.kt.co.kr
 
@@ -11543,6 +13651,14 @@ aidata.kt.co.kr
 thor.kt.co.kr
 
 zone-wifi.kt.co.kr
+
+con.g.api.kt.com
+
+con.g.api.kt.com
+
+aibigdata.kt.co.kr
+
+fips.kt.com
 
 cloud-nms.kt.com
 
@@ -11564,6 +13680,8 @@ moonshot.kt.co.kr
 
 sdn.5gopera.kt.co.kr
 
+dmas.kt.co.kr
+
 mss.kt.com
 
 maos.kt.com
@@ -11571,6 +13689,10 @@ maos.kt.com
 test.maos.kt.com
 
 promotion.kt.com
+
+mrdsdev.kt.com
+
+mrds.kt.com
 
 mrdsdev.kt.com
 
@@ -11590,11 +13712,23 @@ bizmdm.kt.com
 
 evm.kt.com
 
+erpap.kt.co.kr
+
+erpap2.kt.co.kr
+
 erplan.kt.co.kr
 
 erptax.kt.co.kr
 
+silkroad.kt.co.kr
+
+erpap.kt.co.kr
+
+forum.chelsea.kt.co.kr
+
 ktdmsdev.kt.com
+
+aicodingblock.kt.co.kr
 
 kms1.kt.co.kr
 
@@ -11614,9 +13748,13 @@ secu4biz.kt.co.kr
 
 corenet.kt.co.kr
 
+gigaoffice.kt.com
+
 dev.robops.kt.com
 
 test.robops.kt.com
+
+robops.kt.com
 
 cost.kt.co.kr
 
@@ -11648,11 +13786,17 @@ logcenter.kt.co.kr
 
 irmanager.kt.com
 
+nw.b2bsupport.kt.com
+
 ospiarpt.kt.co.kr
 
 toms.kt.co.kr
 
+mwing.kt.com
+
 gnpan-admin.kt.co.kr
+
+gnpan.kt.co.kr
 
 mkas1.kt.com
 
@@ -11664,9 +13808,19 @@ netmax.ktf.com
 
 edap.kt.co.kr
 
+idas.kt.com
+
 secueye.kt.co.kr
 
+gigaiot.kt.co.kr
+
+G-callavo.ars.kt.com
+
+C-callavo.ars.kt.com
+
 nwsecu.kt.com
+
+ibos.kt.com
 
 irms.kt.co.kr
 
@@ -11676,19 +13830,29 @@ tcad.kt.com
 
 dbsniper.kt.com
 
+dev.ftcomn.kt.co.kr
+
+tradebc.gigaenergy.kt.com
+
 appsensor.kt.co.kr
+
+public.pcms.kt.com
 
 pcms.kt.co.kr
 
 pcams.kt.co.kr
 
+sbookoperator.kt.co.kr
+
 rtk-onm.eagle.kt.co.kr
 
-sbookoperator.kt.co.kr
+biz.iotmakersdms.kt.com
+
+osscenter.kt.com
 
 tb.enterpriselte.kt.com
 
-osscenter.kt.com
+add.kt.co.kr
 
 vsm.kt.co.kr
 
@@ -11698,7 +13862,19 @@ aivoc.kt.co.kr
 
 ombstb.onm.kt.com
 
+securaider.kt.co.kr
+
 wmon.kt.co.kr
+
+web.newrc.kt.com
+
+wtms.kt.co.kr
+
+api.gigaenergy.kt.com
+
+cems.gigaenergy.kt.com
+
+fems.gigaenergy.kt.com
 
 dev.wtms.kt.co.kr
 
@@ -11712,8 +13888,6 @@ rpadu.kt.co.kr
 
 api.caremon.co.kr
 
-lab2.aidu.kt.com
-
 maap3.hermes.kt.com
 
 svc2.aidu.kt.com
@@ -11724,6 +13898,12 @@ ide2.aidu.kt.com
 
 gigaoffice-common-was.c01-okd.cz.paas.kt.co.kr
 
+deiddev.kt.co.kr
+
+daesung.ontactedu.co.kr
+
+app.internetzikimi.kt.com
+
 ele-bo.ontactedu.co.kr
 
 bos.securegate.kt.com
@@ -11732,29 +13912,21 @@ mtrcs.thunderpost.net
 
 mstr.wing.kt.com
 
-deiddev.kt.co.kr
-
-daesung.ontactedu.co.kr
-
-app.internetzikimi.kt.com
-
-dv.baikal.kt.co.kr
-
 test2.kt.co.kr
 
 digitalwork.kt.co.kr
 
 atv.ktcems.com
 
-mid-bo.ontactedu.co.kr
+api2.aidu.kt.com
 
-m2.gaia.kt.co.kr
+ide2.aidu.kt.com
 
-api.health.kt.co.kr
+dv.baikal.kt.co.kr
 
-api.dx.central01.container.cloud.kt.com
+app.smartbill.kt.com
 
-daesung-bo.ontactedu.co.kr
+app.smartbill.kt.com
 
 brms.sqms.kt.co.kr
 
@@ -11764,9 +13936,9 @@ sqms.dev.kt.co.kr
 
 apitb.aibd.kt.com
 
-pss.mein.megatvdnp.co.kr
-
 maapfe2.hermes.kt.com
+
+lab2.aidu.kt.com
 
 bo.ontactedu.co.kr
 
@@ -11778,13 +13950,55 @@ test-dnd2.ktvsaas.co.kr
 
 aca.ontactedu.co.kr
 
+pss.mein.megatvdnp.co.kr
+
 police.kt.co.kr
+
+api.health.kt.co.kr
 
 aca-bo.ontactedu.co.kr
 
+daesung-bo.ontactedu.co.kr
+
 high-bo.ontactedu.co.kr
 
-app.smartbill.kt.com
+pidi.kt.co.kr
+
+pididev.kt.co.kr
+
+*.appdu.kt.co.kr
+
+photo.gis.kt.com
+
+mdrcable.kt.co.kr
+
+hybridagent.cloud.kt.com
+
+mx.nexus.kt.co.kr
+
+api.aidu.kt.com
+
+ide.aidu.kt.com
+
+mdm.jejuhc.kt.co.kr
+
+spn.jejuhc.kt.co.kr
+
+ssl.jejuhc.kt.co.kr
+
+cmc.jejuhc.kt.co.kr
+
+mid-bo.ontactedu.co.kr
+
+m2.gaia.kt.co.kr
+
+ktds.ktvdi.co.kr
+
+api.baikal.kt.co.kr
+
+adm.kttalk.net
+
+api.health.kt.co.kr
 
 ns2.g.xro.kt.com
 
@@ -11798,9 +14012,13 @@ tb-cems.gigaenergy.kt.com
 
 tb-fems.gigaenergy.kt.com
 
+lab2.aidu.kt.com
+
 st-storage.mstorage.kt.com
 
 photobook.mstorage.kt.com
+
+hcps11-1.kt.co.kr
 
 hcps11-1.kt.co.kr
 
@@ -11822,17 +14040,21 @@ photo.navi.kt.com
 
 bcapi.tbdlr.kt.co.kr
 
+photo.navi.kt.com
+
 jira.dspace.kt.co.kr
 
 dspace.kt.co.kr
+
+*.datalake.cloud.kt.com
+
+*.datalake.cloud.kt.com
 
 dev.accesssdn.kt.co.kr
 
 nexus.dspace.kt.co.kr
 
 eureka.c01-okd.bz.paas.kt.co.kr
-
-disney.tbapi.kt.com
 
 drlauren.kt.co.kr
 
@@ -11850,9 +14072,13 @@ git.appdu.kt.co.kr
 
 admin.bizcare.kt.co.kr
 
+bizcare.kt.co.kr
+
 nexus.appdu.kt.co.kr
 
 test-dnd.ktvsaas.co.kr
+
+test-vod.ktvsaas.co.kr
 
 test-vod.ktvsaas.co.kr
 
@@ -11863,6 +14089,10 @@ test-stm12.ktvsaas.co.kr
 test-stm11.ktvsaas.co.kr
 
 test-open.ktvsaas.co.kr
+
+test-open.ktvsaas.co.kr
+
+test-api.ktvsaas.co.kr
 
 test-api.ktvsaas.co.kr
 
@@ -11908,13 +14138,15 @@ hybridmulti.cloud.kt.com
 
 hybridagent.cloud.kt.com
 
-api-redis.cloud.kt.com
-
 abdet.alake.kt.co.kr
 
 mdevnetis.kt.co.kr
 
 mnetis.kt.co.kr
+
+mnetis.kt.co.kr
+
+logistics.wtms.kt.co.kr
 
 logistics.wtms.kt.co.kr
 
@@ -11927,6 +14159,8 @@ service.myoffice.kt.com
 test.myoffice.kt.com
 
 svc.aidu.kt.com
+
+autodiscover.kt.com
 
 outlook.kt.com
 
@@ -11982,9 +14216,23 @@ test-stm22.ktvsaas.co.kr
 
 test-logw.ktvsaas.co.kr
 
+dev-sese.ktvsaas.co.kr
+
+dev-sesd.ktvsaas.co.kr
+
+dev-gwece.ktvsaas.co.kr
+
+dev-gwecd.ktvsaas.co.kr
+
+dev-dms.ktvsaas.co.kr
+
+dev-api.ktvsaas.co.kr
+
+test-stm22.ktvsaas.co.kr
+
 test-rapi.ktvsaas.co.kr
 
-wiki.dspace.kt.co.kr
+test-open.ktvsaas.co.kr
 
 hims.kt.co.kr
 
@@ -11998,13 +14246,23 @@ test-rsgw.ktvsaas.co.kr
 
 test-sgw.ktvsaas.co.kr
 
+test-rapi.ktvsaas.co.kr
+
 test-www.ktvsaas.co.kr
+
+dms2.gigaeyes.co.kr
 
 dms2.gigaeyes.co.kr
 
 ns2.g.gigaeyes.co.kr
 
+ns2.g.gigaeyes.co.kr
+
 ns1.g.gigaeyes.co.kr
+
+ns1.g.gigaeyes.co.kr
+
+dnd-cld1.gigaeyes.co.kr
 
 dnd-cld1.gigaeyes.co.kr
 
@@ -12012,11 +14270,17 @@ api.aidu.kt.com
 
 ide.aidu.kt.com
 
+svc.aidu.kt.com
+
 admin.myoffice.kt.co.kr
 
 ses-cld1.gigaeyes.co.kr
 
 gwec-cld1.gigaeyes.co.kr
+
+gwec-cld1.gigaeyes.co.kr
+
+ns2.g.xro.kt.com
 
 tb-aca.ontactedu.co.kr
 
@@ -12038,35 +14302,71 @@ dnd-hw8.gigaeyes.co.kr
 
 ses-hw8.gigaeyes.co.kr
 
+devopssuite.cloud.kt.com
+
+cldlv01-a010.vsaas.co.kr
+
 cldlv01-a009.vsaas.co.kr
+
+cldlv01-a009.vsaas.co.kr
+
+cldlv01-a008.vsaas.co.kr
 
 cldlv01-a008.vsaas.co.kr
 
 cldlv01-a007.vsaas.co.kr
 
+cldlv01-a007.vsaas.co.kr
+
 cldlv01-a006.vsaas.co.kr
+
+cldlv01-a006.vsaas.co.kr
+
+cldlv01-a005.vsaas.co.kr
 
 cldlv01-a005.vsaas.co.kr
 
 cldlv01-a004.vsaas.co.kr
 
+cldlv01-a004.vsaas.co.kr
+
 cldlv01-a003.vsaas.co.kr
+
+cldlv01-a003.vsaas.co.kr
+
+cldlv01-a002.vsaas.co.kr
 
 cldlv01-a002.vsaas.co.kr
 
 cldlv01-a001.vsaas.co.kr
 
+cldlv01-a001.vsaas.co.kr
+
 cldlv01-a020.vsaas.co.kr
+
+cldlv01-a020.vsaas.co.kr
+
+cldlv01-a019.vsaas.co.kr
 
 cldlv01-a019.vsaas.co.kr
 
 cldlv01-a018.vsaas.co.kr
 
+cldlv01-a018.vsaas.co.kr
+
+cldlv01-a017.vsaas.co.kr
+
 cldlv01-a017.vsaas.co.kr
 
 cldlv01-a016.vsaas.co.kr
 
+cldlv01-a016.vsaas.co.kr
+
 cldlv01-a015.vsaas.co.kr
+
+cldlv01-a015.vsaas.co.kr
+
+cldlv01-a014.vsaas.co.kr
 
 cldlv01-a014.vsaas.co.kr
 
@@ -12082,7 +14382,13 @@ ipcnexus.kt.co.kr
 
 cldlv01-a013.vsaas.co.kr
 
+cldlv01-a013.vsaas.co.kr
+
 cldlv01-a012.vsaas.co.kr
+
+cldlv01-a012.vsaas.co.kr
+
+cldlv01-a011.vsaas.co.kr
 
 cldlv01-a011.vsaas.co.kr
 
@@ -12212,17 +14518,25 @@ dev.biztvcc.kt.co.kr
 
 anylink.5g.kt.co.kr
 
+anylink.5g.kt.co.kr
+
 *.appdu.kt.co.kr
 
 mentor.ontactedu.co.kr
 
 pttskor.ktipmedia.co.kr
 
+hims.kt.co.kr
+
 hhlv08-a002.vsaas.co.kr
 
 stress.test.kt.co.kr
 
 admin.gov.kt-aicc.com
+
+test.myoffice.kt.com
+
+service.myoffice.kt.com
 
 biztvccis.kt.co.kr
 
@@ -12248,6 +14562,8 @@ adm.aibd.kt.com
 
 portal.aibd.kt.com
 
+portal.aibd.kt.com
+
 tb-high-bo.ontactedu.co.kr
 
 tb-mid-bo.ontactedu.co.kr
@@ -12266,7 +14582,13 @@ tb-ele.ontactedu.co.kr
 
 tb-www.ontactedu.co.kr
 
+app.internetzikimi.kt.com
+
 onclassturn2.ontactedu.co.kr
+
+bcapi.dlr.kt.co.kr
+
+bcapi.tbdlr.kt.co.kr
 
 webauth.ktedi.com
 
@@ -12276,9 +14598,13 @@ api.seniorcare.kt.com
 
 ai.seniorcare.kt.com
 
+ai.seniorcare.kt.com
+
 *.dev.appdu.kt.co.kr
 
 bizsmrc.kt.co.kr
+
+kbagency.hermes.kt.com
 
 dev.app.ktlocaldx.com
 
@@ -12300,6 +14626,8 @@ mtb.bnf.kt.com
 
 api.bigsight.kt.com
 
+api.bigsight.kt.com
+
 tb.bnf.kt.com
 
 scm.acp.kt.co.kr
@@ -12318,17 +14646,25 @@ kbagency-stg.hermes.kt.com
 
 kturl.kr
 
+kturl.kr
+
 atox.gis.kt.com
 
-api.ktdsp.kt.co.kr
+kbagency-stg.hermes.kt.com
+
+svc2.aidu.kt.com
+
+dspace.kt.co.kr
 
 ktdms-test.kt-aicc.com
+
+maap3.hermes.kt.com
+
+agency.hermes.kt.com
 
 prvid.kt.co.kr
 
 api.aispeech.ktipmedia.co.kr
-
-app.ansim.kt.com
 
 biz.securegate.kt.com
 
@@ -12340,17 +14676,33 @@ sp.tbdlr.kt.co.kr
 
 cldlv01-a028.vsaas.co.kr
 
+cldlv01-a028.vsaas.co.kr
+
 cldlv01-a027.vsaas.co.kr
+
+cldlv01-a027.vsaas.co.kr
+
+cldlv01-a026.vsaas.co.kr
 
 cldlv01-a026.vsaas.co.kr
 
 cldlv01-a025.vsaas.co.kr
 
+cldlv01-a025.vsaas.co.kr
+
+cldlv01-a024.vsaas.co.kr
+
 cldlv01-a024.vsaas.co.kr
 
 cldlv01-a023.vsaas.co.kr
 
+cldlv01-a023.vsaas.co.kr
+
 cldlv01-a022.vsaas.co.kr
+
+cldlv01-a022.vsaas.co.kr
+
+cldlv01-a021.vsaas.co.kr
 
 cldlv01-a021.vsaas.co.kr
 
@@ -12360,11 +14712,15 @@ dev.syncview.kt-aicc.com
 
 syncview.kt-aicc.com
 
-ktdsp.kt.co.kr
+api.geis.ktipmedia.co.kr
 
 api.geis.ktipmedia.co.kr
 
 m.bnf.kt.com
+
+ss1.gcloud.kt.com
+
+portal.gigaoffice.kt.com
 
 5g-oasis.kt.co.kr
 
@@ -12382,9 +14738,19 @@ ds-eventclass.ontactedu.co.kr
 
 api.tbbicrsp.kt.co.kr
 
+api.tbbicrsp.kt.co.kr
+
+GiGA.Connect.kt.com
+
 GiGA.Connect.kt.com
 
 api.bicrsp.kt.co.kr
+
+api.bicrsp.kt.co.kr
+
+mss.gigaoffice.kt.com
+
+biz.robotmakers.kt.co.kr
 
 biz.robotmakers.kt.co.kr
 
@@ -12393,6 +14759,8 @@ biz.robotmakers.kt.co.kr
 devadm.digitalwork.kt.co.kr
 
 devusr.digitalwork.kt.co.kr
+
+sadmin.seniorcare.kt.com
 
 abcampaign.kt.co.kr
 
@@ -12414,7 +14782,17 @@ adminbaroad.kt.co.kr
 
 dev.escsvc.kt-aicc.com
 
+jira.dspace.kt.co.kr
+
+info.caremon.co.kr
+
+maapfe.hermes.kt.com
+
+maapfe-stg.hermes.kt.com
+
 maapfe2-stg.hermes.kt.com
+
+m.allinbiz.kt.co.kr
 
 m.allinbiz.kt.co.kr
 
@@ -12424,7 +14802,21 @@ dev.m.aib.kt.co.kr
 
 dpos.kt.co.kr
 
+maap.hermes.kt.com
+
+maap-stg.hermes.kt.com
+
+agg.hermes.kt.com
+
+agg-stg.hermes.kt.com
+
+agency-stg.hermes.kt.com
+
 adm.digitalwork.kt.co.kr
+
+digitalwork.kt.co.kr
+
+maapfe2-stg.hermes.kt.com
 
 api.mygenie.ktipmedia.co.kr
 
@@ -12436,9 +14828,17 @@ caremon.co.kr
 
 cmimo.kt.co.kr
 
+api.gsd.kt.co.kr
+
+gsd.kt.co.kr
+
+maap2.hermes.kt.com
+
 maap2.hermes.kt.com
 
 dev.media2.kt.co.kr
+
+ns1.g.xro.kt.com
 
 dev.media1.kt.co.kr
 
@@ -12452,21 +14852,13 @@ jenkins.tbdspace.kt.co.kr
 
 gitlab.tbdspace.kt.co.kr
 
+adm.digitalwork.kt.co.kr
+
 intelliv.ktipmedia.co.kr
 
 www.caremon.co.kr
 
 iotdev.kt.co.kr
-
-bo.ktlocaldx.com
-
-app.ktlocaldx.com
-
-ss2.bizcollabo.cloud.kt.com
-
-ss1.bizcollabo.cloud.kt.com
-
-adm.managed-cis.ollehkt.biz
 
 central-container.cloud.kt.com
 
@@ -12488,249 +14880,435 @@ webide.ktaidu.kt.co.kr
 
 admin.ktaidu.kt.co.kr
 
+service.ktaidu.kt.co.kr
+
+restapi.ktaidu.kt.co.kr
+
+webide.ktaidu.kt.co.kr
+
+admin.ktaidu.kt.co.kr
+
 dev.bizcollabo.cloud.kt.com
 
 stg.bizcollabo.cloud.kt.com
 
 turn2.bizcollabo.cloud.kt.com
 
-chungbuk.internet.kt.com
+central-container.cloud.kt.com
 
-jeju.internet.kt.com
-
-jeonbuk.internet.kt.com
-
-kbgg.internet.kt.com
-
-seobu1.internet.kt.com
-
-gangwon.internet.kt.com
-
-kangnam.internet.kt.com
-
-tb.ktdsp.kt.co.kr
+cldlv02-a064.vsaas.co.kr
 
 cldlv02-a064.vsaas.co.kr
 
 cldlv02-a063.vsaas.co.kr
 
+cldlv02-a063.vsaas.co.kr
+
 cldlv02-a062.vsaas.co.kr
+
+cldlv02-a062.vsaas.co.kr
+
+cldlv02-a061.vsaas.co.kr
 
 cldlv02-a061.vsaas.co.kr
 
 cldlv02-a060.vsaas.co.kr
 
+cldlv02-a060.vsaas.co.kr
+
 cldlv02-a059.vsaas.co.kr
+
+cldlv02-a059.vsaas.co.kr
+
+cldlv02-a058.vsaas.co.kr
 
 cldlv02-a058.vsaas.co.kr
 
 cldlv02-a057.vsaas.co.kr
 
+cldlv02-a057.vsaas.co.kr
+
 cldlv02-a056.vsaas.co.kr
+
+cldlv02-a056.vsaas.co.kr
+
+cldlv02-a055.vsaas.co.kr
 
 cldlv02-a055.vsaas.co.kr
 
 cldlv02-a054.vsaas.co.kr
 
+cldlv02-a054.vsaas.co.kr
+
 cldlv02-a053.vsaas.co.kr
+
+cldlv02-a053.vsaas.co.kr
+
+cldlv02-a052.vsaas.co.kr
 
 cldlv02-a052.vsaas.co.kr
 
 cldlv02-a051.vsaas.co.kr
 
+cldlv02-a051.vsaas.co.kr
+
 cldlv02-a050.vsaas.co.kr
+
+cldlv02-a050.vsaas.co.kr
+
+cldlv02-a049.vsaas.co.kr
 
 cldlv02-a049.vsaas.co.kr
 
 cldlv02-a048.vsaas.co.kr
 
+cldlv02-a048.vsaas.co.kr
+
 cldlv02-a047.vsaas.co.kr
+
+cldlv02-a047.vsaas.co.kr
+
+cldlv02-a046.vsaas.co.kr
 
 cldlv02-a046.vsaas.co.kr
 
 cldlv02-a045.vsaas.co.kr
 
+cldlv02-a045.vsaas.co.kr
+
 cldlv02-a044.vsaas.co.kr
+
+cldlv02-a044.vsaas.co.kr
+
+cldlv02-a043.vsaas.co.kr
 
 cldlv02-a043.vsaas.co.kr
 
 cldlv02-a042.vsaas.co.kr
 
+cldlv02-a042.vsaas.co.kr
+
 cldlv02-a041.vsaas.co.kr
+
+cldlv02-a041.vsaas.co.kr
+
+cldlv02-a040.vsaas.co.kr
 
 cldlv02-a040.vsaas.co.kr
 
 cldlv02-a039.vsaas.co.kr
 
+cldlv02-a039.vsaas.co.kr
+
 cldlv02-a038.vsaas.co.kr
+
+cldlv02-a038.vsaas.co.kr
+
+cldlv02-a037.vsaas.co.kr
 
 cldlv02-a037.vsaas.co.kr
 
 cldlv02-a036.vsaas.co.kr
 
+cldlv02-a036.vsaas.co.kr
+
 cldlv02-a035.vsaas.co.kr
+
+cldlv02-a035.vsaas.co.kr
+
+cldlv02-a034.vsaas.co.kr
 
 cldlv02-a034.vsaas.co.kr
 
 cldlv02-a033.vsaas.co.kr
 
+cldlv02-a033.vsaas.co.kr
+
 cldlv02-a032.vsaas.co.kr
+
+cldlv02-a032.vsaas.co.kr
+
+cldlv02-a031.vsaas.co.kr
 
 cldlv02-a031.vsaas.co.kr
 
 cldlv02-a030.vsaas.co.kr
 
+cldlv02-a030.vsaas.co.kr
+
 cldlv02-a029.vsaas.co.kr
+
+cldlv02-a029.vsaas.co.kr
+
+cldlv02-a028.vsaas.co.kr
 
 cldlv02-a028.vsaas.co.kr
 
 cldlv02-a027.vsaas.co.kr
 
+cldlv02-a027.vsaas.co.kr
+
 cldlv02-a026.vsaas.co.kr
+
+cldlv02-a026.vsaas.co.kr
+
+cldlv02-a025.vsaas.co.kr
 
 cldlv02-a025.vsaas.co.kr
 
 cldlv02-a024.vsaas.co.kr
 
+cldlv02-a024.vsaas.co.kr
+
 cldlv02-a023.vsaas.co.kr
+
+cldlv02-a023.vsaas.co.kr
+
+cldlv02-a022.vsaas.co.kr
 
 cldlv02-a022.vsaas.co.kr
 
 cldlv02-a021.vsaas.co.kr
 
+cldlv02-a021.vsaas.co.kr
+
 cldlv02-a020.vsaas.co.kr
+
+cldlv02-a020.vsaas.co.kr
+
+devadm.digitalwork.kt.co.kr
+
+devusr.digitalwork.kt.co.kr
 
 pta.mein.megatvdnp.co.kr
 
 cldlv02-a019.vsaas.co.kr
 
+cldlv02-a019.vsaas.co.kr
+
 cldlv02-a018.vsaas.co.kr
+
+cldlv02-a018.vsaas.co.kr
+
+cldlv02-a017.vsaas.co.kr
 
 cldlv02-a017.vsaas.co.kr
 
 cldlv02-a016.vsaas.co.kr
 
+cldlv02-a016.vsaas.co.kr
+
 cldlv02-a015.vsaas.co.kr
+
+cldlv02-a015.vsaas.co.kr
+
+cldlv02-a014.vsaas.co.kr
 
 cldlv02-a014.vsaas.co.kr
 
 cldlv02-a013.vsaas.co.kr
 
+cldlv02-a013.vsaas.co.kr
+
+cldlv02-a012.vsaas.co.kr
+
 cldlv02-a012.vsaas.co.kr
 
 cldlv02-a011.vsaas.co.kr
 
-ns1.g.xro.olleh.com.olleh.com
+api.redis.cloud.kt.com
 
-ns2.g.xro.olleh.com.olleh.com
+cldlv02-a011.vsaas.co.kr
 
-kangbuk.internet.kt.com
+cldlv02-a010.vsaas.co.kr
 
 cldlv02-a010.vsaas.co.kr
 
 cldlv02-a009.vsaas.co.kr
 
+cldlv02-a009.vsaas.co.kr
+
 cldlv02-a008.vsaas.co.kr
+
+cldlv02-a008.vsaas.co.kr
+
+cldlv02-a007.vsaas.co.kr
 
 cldlv02-a007.vsaas.co.kr
 
 cldlv02-a006.vsaas.co.kr
 
+cldlv02-a006.vsaas.co.kr
+
 cldlv02-a005.vsaas.co.kr
+
+cldlv02-a005.vsaas.co.kr
+
+cldlv02-a004.vsaas.co.kr
 
 cldlv02-a004.vsaas.co.kr
 
 cldlv02-a003.vsaas.co.kr
 
+cldlv02-a003.vsaas.co.kr
+
 cldlv02-a002.vsaas.co.kr
+
+cldlv02-a002.vsaas.co.kr
+
+cldlv02-a001.vsaas.co.kr
 
 cldlv02-a001.vsaas.co.kr
 
 cldlv01-a064.vsaas.co.kr
 
+cldlv01-a064.vsaas.co.kr
+
 cldlv01-a063.vsaas.co.kr
+
+cldlv01-a063.vsaas.co.kr
+
+cldlv01-a062.vsaas.co.kr
 
 cldlv01-a062.vsaas.co.kr
 
 cldlv01-a061.vsaas.co.kr
 
+cldlv01-a061.vsaas.co.kr
+
 cldlv01-a060.vsaas.co.kr
+
+cldlv01-a060.vsaas.co.kr
+
+cldlv01-a059.vsaas.co.kr
 
 cldlv01-a059.vsaas.co.kr
 
 cldlv01-a058.vsaas.co.kr
 
+cldlv01-a058.vsaas.co.kr
+
 cldlv01-a057.vsaas.co.kr
+
+cldlv01-a057.vsaas.co.kr
+
+cldlv01-a056.vsaas.co.kr
 
 cldlv01-a056.vsaas.co.kr
 
 cldlv01-a055.vsaas.co.kr
 
+cldlv01-a055.vsaas.co.kr
+
 cldlv01-a054.vsaas.co.kr
+
+cldlv01-a054.vsaas.co.kr
+
+cldlv01-a053.vsaas.co.kr
 
 cldlv01-a053.vsaas.co.kr
 
 cldlv01-a052.vsaas.co.kr
 
+cldlv01-a052.vsaas.co.kr
+
 cldlv01-a051.vsaas.co.kr
+
+cldlv01-a051.vsaas.co.kr
+
+cldlv01-a050.vsaas.co.kr
 
 cldlv01-a050.vsaas.co.kr
 
 cldlv01-a049.vsaas.co.kr
 
+cldlv01-a049.vsaas.co.kr
+
 cldlv01-a048.vsaas.co.kr
+
+cldlv01-a048.vsaas.co.kr
+
+cldlv01-a047.vsaas.co.kr
 
 cldlv01-a047.vsaas.co.kr
 
 cldlv01-a046.vsaas.co.kr
 
+cldlv01-a046.vsaas.co.kr
+
 cldlv01-a045.vsaas.co.kr
+
+cldlv01-a045.vsaas.co.kr
+
+cldlv01-a044.vsaas.co.kr
 
 cldlv01-a044.vsaas.co.kr
 
 cldlv01-a043.vsaas.co.kr
 
+cldlv01-a043.vsaas.co.kr
+
 cldlv01-a042.vsaas.co.kr
+
+cldlv01-a042.vsaas.co.kr
+
+cldlv01-a041.vsaas.co.kr
 
 cldlv01-a041.vsaas.co.kr
 
 cldlv01-a040.vsaas.co.kr
 
+cldlv01-a040.vsaas.co.kr
+
 cldlv01-a039.vsaas.co.kr
+
+cldlv01-a039.vsaas.co.kr
+
+cldlv01-a038.vsaas.co.kr
 
 cldlv01-a038.vsaas.co.kr
 
 cldlv01-a037.vsaas.co.kr
 
+cldlv01-a037.vsaas.co.kr
+
 cldlv01-a036.vsaas.co.kr
+
+cldlv01-a036.vsaas.co.kr
+
+cldlv01-a035.vsaas.co.kr
 
 cldlv01-a035.vsaas.co.kr
 
 cldlv01-a034.vsaas.co.kr
 
+cldlv01-a034.vsaas.co.kr
+
 cldlv01-a033.vsaas.co.kr
+
+cldlv01-a033.vsaas.co.kr
+
+cldlv01-a032.vsaas.co.kr
 
 cldlv01-a032.vsaas.co.kr
 
 cldlv01-a031.vsaas.co.kr
 
+cldlv01-a031.vsaas.co.kr
+
+cldlv01-a030.vsaas.co.kr
+
 cldlv01-a030.vsaas.co.kr
 
 cldlv01-a029.vsaas.co.kr
 
-dnd-cld2.gigaeyes.co.kr
-
-vod-cld2.gigaeyes.co.kr
-
-ses-cld2.gigaeyes.co.kr
+cldlv01-a029.vsaas.co.kr
 
 dev.biztvccis.kt.co.kr
 
-gwec-cld2.gigaeyes.co.kr
+gaia.kt.co.kr
 
-hschoolbmt.ktipmedia.co.kr
-
-hschoolweb.ktipmedia.co.kr
+gaia.kt.co.kr
 
 dasmobile.kt.co.kr
 
@@ -12740,111 +15318,43 @@ dasmobile.kt.co.kr
 
 turn1.collabo.cloud.kt.com
 
+collabo.cloud.kt.com
+
 *.collabo.cloud.kt.com
 
 tbpta.mein.megatvdnp.co.kr
 
-nambu.internet.kt.com
+dev.k-jizone.kt.co.kr
 
-busan.internet.kt.com
+api.healthmydata.kt.co.kr
 
-gyeongnam.internet.kt.com
+poc.kt.co.kr
 
-chungnam.internet.kt.com
+admin.seniorcare.kt.com
 
-seobu.internet.kt.com
+agency2.hermes.kt.com
 
-taegu.internet.kt.com
+dev.bo.ktlocaldx.com
 
-mygenie.ktipmedia.co.kr
+faq.fsafe.kt.com
 
-mpost.kt.co.kr
+agency2.hermes.kt.com
 
-rm-cd.tbdspace.kt.co.kr
-
-wiki.tbdspace.kt.co.kr
-
-it-cd.dspace.kt.co.kr
-
-ip-cd.dspace.kt.co.kr
-
-rm-cd.dspace.kt.co.kr
-
-jeonnam.internet.kt.com
-
-captive.ollehkt.biz
-
-secucia.kt.co.kr
-
-*.kf-serv.acp.kt.co.kr
-
-*.apps.dx.central01.container.cloud.kt.com
-
-seoullearn.ontactedu.co.kr
-
-castcdn1.ktipmedia.co.kr
-
-thundermail.biztech.kt.co.kr
-
-aprv.smfiltermanager.kt.com
-
-esports-cms-esportslive.c01-okd.cz.paas.kt.co.kr
-
-fiveg-cms-esportslive.c01-okd.cz.paas.kt.co.kr
-
-ra.cert.kt.com
-
-master.collabo.cloud.kt.com
-
-docker.collabo.cloud.kt.com
-
-stat.collabo.cloud.kt.com
-
-admin.collabo.cloud.kt.com
-
-ktadmin.collabo.cloud.kt.com
-
-collabo.cloud.kt.com
-
-tn2.collabo.cloud.kt.com
-
-tn1.collabo.cloud.kt.com
-
-ss2.collabo.cloud.kt.com
-
-ss1.collabo.cloud.kt.com
-
-pidi.kt.co.kr
-
-pididev.kt.co.kr
-
-kbcard.hermes.kt.com
-
-photo.gis.kt.com
-
-mdrcable.kt.co.kr
-
-mdm.jejuhc.kt.co.kr
-
-spn.jejuhc.kt.co.kr
-
-ssl.jejuhc.kt.co.kr
-
-cmc.jejuhc.kt.co.kr
-
-ktds.ktvdi.co.kr
-
-api.baikal.kt.co.kr
+tbgw.fsafe.kt.com
 
 tbonm.fsafe.kt.co.kr
 
 aipdm.kt.co.kr
 
-kbcard-stg.hermes.kt.com
-
 auth.c01-okd.bz.paas.kt.co.kr
 
-adm.ktdsp.kt.co.kr
+bos.securegate.kt.com
+
+vod-cld1.gigaeyes.co.kr
+
+tis.gis.kt.com
+
+vod-cld1.gigaeyes.co.kr
 
 doc.ktedi.com
 
@@ -12856,97 +15366,41 @@ weand-stream.ontactedu.co.kr
 
 test-ses3.ktvsaas.co.kr
 
-vod-cld1.gigaeyes.co.kr
-
-dev.k-jizone.kt.co.kr
-
-api.healthmydata.kt.co.kr
-
-poc.kt.co.kr
-
-agency2.hermes.kt.com
-
-dev.bo.ktlocaldx.com
-
-faq.fsafe.kt.com
-
-tbgw.fsafe.kt.com
-
-npoc.kt.co.kr
-
-kt.ktvdi.co.kr
-
-info.ktvdi.co.kr
-
-ktaidu.kt.co.kr
-
-adm.jejuhc.kt.co.kr
-
-esgvideo.kt.co.kr
-
-kt-aidu.kt.co.kr
-
-vpn.ktvdi.co.kr
-
-bizcare.cz-okd-dev.arsenal.kt.co.kr
-
-@.nespot.com
-
-ns1.g.vpn.kt.com
-
-api.aibd.kt.com
-
-ca.kt-aicc.com
-
-api.aipdm.kt.co.kr
-
-api.kt-aica.com
-
-arm.jejuhc.kt.co.kr
-
-test-vod2.ktvsaas.co.kr
-
-kt-aicc.com
-
-ob.kt-aicc.com
-
-vaapi.ontactedu.co.kr
-
-onclassturn.ontactedu.co.kr
-
-onclassapi.ontactedu.co.kr
-
-onclass.ontactedu.co.kr
-
-ecmdev.kt-aica.com
-
-esgdev.kt.co.kr
-
-esg.kt.co.kr
-
-www.nespot.com
-
-sp.dlr.kt.co.kr
-
-office.ktedi.com
-
-edge.kt.com
-
-k8s.gsd.kt.co.kr
-
 ecnv.openapi.kt.com
+
+mtb.bnf.kt.com
+
+tb.bnf.kt.com
+
+dev.adm.kttalk.net
+
+lab.aidu.kt.com
+
+apitb.aibd.kt.com
+
+nexus.dspace.kt.co.kr
+
+gitlab.dspace.kt.co.kr
+
+jenkins.dspace.kt.co.kr
 
 iotdevtb.kt.co.kr
 
 iotbiztb.kt.co.kr
 
-dr-t.kt.co.kr
-
-maapfe3.hermes.kt.com
+m.bnf.kt.com
 
 bnf.kt.com
 
 deid.kt.co.kr
+
+monitor.seniorcare.kt.com
+
+maapfe3.hermes.kt.com
+
+maapfe3.hermes.kt.com
+
+maapfe2.hermes.kt.com
 
 prodrepo.chelsea.kt.co.kr
 
@@ -12960,23 +15414,113 @@ gw.fsafe.kt.com
 
 econovation.co.kr
 
-ns2.g.vpn.kt.com
+sp.dlr.kt.co.kr
 
-agg2.hermes.kt.com
+office.ktedi.com
 
-agw.ktcems.com
+*.dev.appdu.kt.co.kr
 
-devadmin.lodix.co.kr
+edge.kt.com
 
-asp.bosbank.co.kr
+k8s.gsd.kt.co.kr
 
-oa.kt.co.kr
+faq.fsafe.kt.com
+
+gigasecure.kt.co.kr
+
+kt.ktvdi.co.kr
+
+info.ktvdi.co.kr
+
+ktaidu.kt.co.kr
+
+ns1.g.vpn.kt.com
 
 coop.nbss.kt.com
 
 sqms.kt.co.kr
 
-tbdspace.kt.co.kr
+api.aibd.kt.com
+
+ca.kt-aicc.com
+
+api.aipdm.kt.co.kr
+
+api.kt-aica.com
+
+arm.jejuhc.kt.co.kr
+
+maap2-stg.hermes.kt.com
+
+adm.jejuhc.kt.co.kr
+
+kt-aidu.kt.co.kr
+
+biz.securegate.kt.com
+
+vpn.ktvdi.co.kr
+
+bizcare.cz-okd-dev.arsenal.kt.co.kr
+
+tbgw.fsafe.kt.com
+
+@.nespot.com
+
+test-dnd2.ktvsaas.co.kr
+
+test-vod2.ktvsaas.co.kr
+
+test-vod2.ktvsaas.co.kr
+
+test-dnd.ktvsaas.co.kr
+
+kt-aicc.com
+
+ob.kt-aicc.com
+
+ses-cld1.gigaeyes.co.kr
+
+vaapi.ontactedu.co.kr
+
+onclassturn.ontactedu.co.kr
+
+onclassapi.ontactedu.co.kr
+
+onclass.ontactedu.co.kr
+
+ecmdev.kt-aica.com
+
+www.nespot.com
+
+devadmin.lodix.co.kr
+
+hybridmulti.cloud.kt.com
+
+photo.gis.kt.com
+
+gigaoffice-common-was.c01-okd.cz.paas.kt.co.kr
+
+ktaidu.kt.co.kr
+
+kt-aidu.kt.co.kr
+
+asp.bosbank.co.kr
+
+oa.kt.co.kr
+
+webmail.kt.com
+
+ns1.g.vpn.kt.com
+
+ns2.g.vpn.kt.com
+
+admin.webmail.kt.com
+
+outlook.kt.com
+
+dev.knote.kt.com
+
+onm.fsafe.kt.co.kr
 
 5goasis.kt.co.kr
 
@@ -12984,17 +15528,17 @@ cb.kt-aicc.com
 
 k-jizone.kt.com
 
-dev.knote.kt.com
+oa.kt.co.kr
 
-onm.fsafe.kt.co.kr
-
-admin.webmail.kt.com
+jejuhc.kt.co.kr
 
 hydee.ontactedu.co.kr
 
 dev.bizsmrc.kt.co.kr
 
 admtb.aibd.kt.com
+
+api.aibd.kt.com
 
 dev.comos.kt.co.kr
 
@@ -13004,9 +15548,15 @@ chatbot.kt-aica.com
 
 anbucare.co.kr
 
-jejuhc.kt.co.kr
+tbdspace.kt.co.kr
 
 escms.kt-aica.com
+
+ns2.g.vpn.kt.com
+
+agg2.hermes.kt.com
+
+agw.ktcems.com
 
 apidev.kt-aica.com
 
@@ -13024,10 +15574,16 @@ nms.devw.kt.co.kr
 
 nms.dev.kt.co.kr
 
+gw.fsafe.kt.com
+
 fmrp-dev.cz-okd-dev.arsenal.kt.com
 
 dev.hgis.kt.co.kr
 
+sit.knote.kt.com
+
 con.jejuhc.kt.co.kr
 
-sit.knote.kt.com
+bnf.kt.com
+
+agg2.hermes.kt.com
